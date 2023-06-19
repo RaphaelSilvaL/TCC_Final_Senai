@@ -1,0 +1,116 @@
+﻿@import url("https://fonts.googleapis.com/css2?family=Hind+Vadodara:wght@300&display=swap");
+
+:root {
+    --azul: #003049;
+    --vermelho: #d62828;
+    --laranja: #f77f00;
+    --preto: #191818;
+    --branco-1: #f2f2f2;
+    --amarelo: #fcbf49;
+    --cinza-marrom: #eae2b7;
+    --gradient: linear-gradient(180deg, #fccf31 0%, #f55555 60%);
+}
+
+/* Scrollbar */
+::-webkit-scrollbar {
+    width: 10px;
+}
+
+::-webkit-scrollbar-thumb {
+    background-color: var(--laranja);
+    border-radius: 30px;
+}
+
+::-webkit-scrollbar-track {
+    background-color: #ebebeb;
+}
+
+.header {
+    margin: auto;
+    padding-top: 10vh;
+    height: 90vh;
+    max-width: 1440px;
+    background-color: #003049;
+}
+
+.banner-evento {
+    display:flex;
+    justify-content:center;
+    align-items: center;
+    margin: auto;
+    background-color: #e4e4e4;
+    height: 65%;
+    width: 60%;
+    box-shadow: 1px 1px 15px var(--preto);
+}
+
+.img-banner{
+    height: 92%;
+    width: 92%;
+}
+
+
+
+.conteudo-evento {
+    margin: auto;
+    /* background-color: #947e7e; */
+    height: 15vh;
+    width: 70%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+    .conteudo-evento h1 {
+        color: var(--branco-1);
+        font-size: 1.7rem;
+    }
+
+.btns {
+    display: flex;
+    width: 50%;
+    /* background-color: #e0d2d2; */
+    justify-content: flex-end;
+}
+
+    .btns button {
+        background-color: transparent;
+        width: 5em;
+        border: none;
+        height: 4rem;
+        cursor: pointer;
+        transition: all 0.5s;
+    }
+
+        .btns button i {
+            font-size: 2.5rem;
+            color: var(--branco-1);
+        }
+
+
+
+.favorito:hover {
+    color: var(--amarelo);
+}
+
+.curtir:hover {
+    color: var(--vermelho);
+}
+
+/*main {
+
+}*/
+
+.descricao {
+    padding-top: 20vh;
+    margin: auto;
+    max-width: 1440px;
+    background-color: #eae2b7;
+    display: flex;
+    flex-direction: column;
+}
+
+
+    .descricao span {
+        font-weight: bold;
+    }

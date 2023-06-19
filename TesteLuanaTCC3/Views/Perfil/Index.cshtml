@@ -1,0 +1,119 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@model IEnumerable<PartyMaker3.Models.Evento>
+@{
+}
+
+<link rel="stylesheet" href="~/css/perfil.css">
+
+<div class="header">
+
+    <div class="titulo-header">
+        <h1>SEU PERFIL</h1>
+    </div>
+
+    <div class="perfil">
+        <div class="perfil-img">
+
+            <img src="/img/Logo Atualizado.png" alt="">
+        </div>
+
+        <div class="perfil-infos">
+            <h2> @TempData["Mensagem"]</h2>
+            <span>@TempData["MensagemE"]</span>
+            <label class="imagem-icone" tabindex="0">
+                <input type="file" accept="image/* " class="input-icone" id="imagem-input">
+                <span id="escolher-imagem"> Escolha um icone de perfil 📷</span>
+            </label>
+        </div>
+
+        </div>
+    </div>
+
+</div>
+
+<main>
+
+    <div class="titulo-populares">
+        <span>Favoritos</span>
+    </div>
+
+    <div class="mais-populares">
+
+        <tbody>
+
+            @foreach (var item in Model)
+            {
+
+                <!-- cards mais populares -->
+                <div class="card">
+
+                    <div class="card-img">
+                        @if (item.Imagem != null && item.Imagem.Length > 0)
+                        {
+                            string base64Image = Convert.ToBase64String(item.Imagem);
+                            string imageSrc = string.Format("data:image;base64,{0}", base64Image);
+                            <img src="@imageSrc" alt="Imagem do Evento" />
+                        }
+                    </div>
+
+                    <h2>@Html.DisplayFor(modelItem => item.Data_evento)</h2>
+                    <p>@Html.DisplayFor(modelItem => item.Nome)</p>
+                    <span>@Html.DisplayFor(modelItem => item.Rua)</span>
+
+                </div>
+            }
+        </tbody>
+
+       @* <div class="card">
+            <div class="card-img">
+                <img src="" alt="">
+            </div>
+            <h2>Sab, 18 jul | 14:00</h2>
+            <p>Forró do zeca</p>
+            <span>São joao da barra - SP</span>
+        </div>
+
+        <div class="card">
+            <div class="card-img">
+                <img src="" alt="">
+            </div>
+            <h2>Sab, 18 jul | 14:00</h2>
+            <p>Forró do zeca</p>
+            <span>São joao da barra - SP</span>
+        </div>
+
+        <div class="card">
+            <div class="card-img">
+                <img src="" alt="">
+            </div>
+            <h2>Sab, 18 jul | 14:00</h2>
+            <p>Forró do zeca</p>
+            <span>São joao da barra - SP</span>
+        </div>
+        <div class="card">
+            <div class="card-img">
+                <img src="" alt="">
+            </div>
+            <h2>Sab, 18 jul | 14:00</h2>
+            <p>Forró do zeca</p>
+            <span>São joao da barra - SP</span>
+        </div>
+        <div class="card">
+            <div class="card-img">
+                <img src="" alt="">
+            </div>
+            <h2>Sab, 18 jul | 14:00</h2>
+            <p>Forró do zeca</p>
+            <span>São joao da barra - SP</span>
+        </div>*@
+
+
+
+    </div>
+
+</main>
+
+
+<script src="/js/script.js"></script>

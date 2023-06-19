@@ -1,0 +1,1243 @@
+C:\Users\aluno\Documents\LuanaBorges\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\aluno\Documents\LuanaBorges\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\appsettings.json
+C:\Users\aluno\Documents\LuanaBorges\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\TesteLuanaTCC3.exe
+C:\Users\aluno\Documents\LuanaBorges\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\TesteLuanaTCC3.deps.json
+C:\Users\aluno\Documents\LuanaBorges\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\TesteLuanaTCC3.runtimeconfig.json
+C:\Users\aluno\Documents\LuanaBorges\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\TesteLuanaTCC3.runtimeconfig.dev.json
+C:\Users\aluno\Documents\LuanaBorges\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\TesteLuanaTCC3.dll
+C:\Users\aluno\Documents\LuanaBorges\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\TesteLuanaTCC3.pdb
+C:\Users\aluno\Documents\LuanaBorges\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\TesteLuanaTCC3.Views.dll
+C:\Users\aluno\Documents\LuanaBorges\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\TesteLuanaTCC3.Views.pdb
+C:\Users\aluno\Documents\LuanaBorges\TesteLuanaTCC3\TesteLuanaTCC3\obj\Debug\net5.0\TesteLuanaTCC3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aluno\Documents\LuanaBorges\TesteLuanaTCC3\TesteLuanaTCC3\obj\Debug\net5.0\TesteLuanaTCC3.AssemblyInfoInputs.cache
+C:\Users\aluno\Documents\LuanaBorges\TesteLuanaTCC3\TesteLuanaTCC3\obj\Debug\net5.0\TesteLuanaTCC3.AssemblyInfo.cs
+C:\Users\aluno\Documents\LuanaBorges\TesteLuanaTCC3\TesteLuanaTCC3\obj\Debug\net5.0\TesteLuanaTCC3.csproj.CoreCompileInputs.cache
+C:\Users\aluno\Documents\LuanaBorges\TesteLuanaTCC3\TesteLuanaTCC3\obj\Debug\net5.0\TesteLuanaTCC3.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\aluno\Documents\LuanaBorges\TesteLuanaTCC3\TesteLuanaTCC3\obj\Debug\net5.0\TesteLuanaTCC3.RazorAssemblyInfo.cache
+C:\Users\aluno\Documents\LuanaBorges\TesteLuanaTCC3\TesteLuanaTCC3\obj\Debug\net5.0\TesteLuanaTCC3.RazorAssemblyInfo.cs
+C:\Users\aluno\Documents\LuanaBorges\TesteLuanaTCC3\TesteLuanaTCC3\obj\Debug\net5.0\staticwebassets\TesteLuanaTCC3.StaticWebAssets.Manifest.cache
+C:\Users\aluno\Documents\LuanaBorges\TesteLuanaTCC3\TesteLuanaTCC3\obj\Debug\net5.0\scopedcss\bundle\TesteLuanaTCC3.styles.css
+C:\Users\aluno\Documents\LuanaBorges\TesteLuanaTCC3\TesteLuanaTCC3\obj\Debug\net5.0\TesteLuanaTCC3.TagHelpers.input.cache
+C:\Users\aluno\Documents\LuanaBorges\TesteLuanaTCC3\TesteLuanaTCC3\obj\Debug\net5.0\TesteLuanaTCC3.TagHelpers.output.cache
+C:\Users\aluno\Documents\LuanaBorges\TesteLuanaTCC3\TesteLuanaTCC3\obj\Debug\net5.0\TesteLuanaTCC3.RazorCoreGenerate.cache
+C:\Users\aluno\Documents\LuanaBorges\TesteLuanaTCC3\TesteLuanaTCC3\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\aluno\Documents\LuanaBorges\TesteLuanaTCC3\TesteLuanaTCC3\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\aluno\Documents\LuanaBorges\TesteLuanaTCC3\TesteLuanaTCC3\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\aluno\Documents\LuanaBorges\TesteLuanaTCC3\TesteLuanaTCC3\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\aluno\Documents\LuanaBorges\TesteLuanaTCC3\TesteLuanaTCC3\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\aluno\Documents\LuanaBorges\TesteLuanaTCC3\TesteLuanaTCC3\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\aluno\Documents\LuanaBorges\TesteLuanaTCC3\TesteLuanaTCC3\obj\Debug\net5.0\TesteLuanaTCC3.RazorTargetAssemblyInfo.cache
+C:\Users\aluno\Documents\LuanaBorges\TesteLuanaTCC3\TesteLuanaTCC3\obj\Debug\net5.0\TesteLuanaTCC3.RazorTargetAssemblyInfo.cs
+C:\Users\aluno\Documents\LuanaBorges\TesteLuanaTCC3\TesteLuanaTCC3\obj\Debug\net5.0\TesteLuanaTCC3.Views.pdb
+C:\Users\aluno\Documents\LuanaBorges\TesteLuanaTCC3\TesteLuanaTCC3\obj\Debug\net5.0\TesteLuanaTCC3.dll
+C:\Users\aluno\Documents\LuanaBorges\TesteLuanaTCC3\TesteLuanaTCC3\obj\Debug\net5.0\ref\TesteLuanaTCC3.dll
+C:\Users\aluno\Documents\LuanaBorges\TesteLuanaTCC3\TesteLuanaTCC3\obj\Debug\net5.0\TesteLuanaTCC3.pdb
+C:\Users\aluno\Documents\LuanaBorges\TesteLuanaTCC3\TesteLuanaTCC3\obj\Debug\net5.0\TesteLuanaTCC3.genruntimeconfig.cache
+C:\Users\aluno\Documents\LuanaBorges\TesteLuanaTCC3\TesteLuanaTCC3\obj\Debug\net5.0\TesteLuanaTCC3.csproj.CopyComplete
+C:\Users\aluno\Documents\Luana Borges\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\aluno\Documents\Luana Borges\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\appsettings.json
+C:\Users\aluno\Documents\Luana Borges\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\TesteLuanaTCC3.exe
+C:\Users\aluno\Documents\Luana Borges\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\TesteLuanaTCC3.deps.json
+C:\Users\aluno\Documents\Luana Borges\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\TesteLuanaTCC3.runtimeconfig.json
+C:\Users\aluno\Documents\Luana Borges\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\TesteLuanaTCC3.runtimeconfig.dev.json
+C:\Users\aluno\Documents\Luana Borges\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\TesteLuanaTCC3.dll
+C:\Users\aluno\Documents\Luana Borges\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ref\TesteLuanaTCC3.dll
+C:\Users\aluno\Documents\Luana Borges\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\TesteLuanaTCC3.pdb
+C:\Users\aluno\Documents\Luana Borges\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\TesteLuanaTCC3.Views.dll
+C:\Users\aluno\Documents\Luana Borges\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\TesteLuanaTCC3.Views.pdb
+C:\Users\aluno\Documents\Luana Borges\TesteLuanaTCC3\TesteLuanaTCC3\obj\Debug\net5.0\TesteLuanaTCC3.csprojAssemblyReference.cache
+C:\Users\aluno\Documents\Luana Borges\TesteLuanaTCC3\TesteLuanaTCC3\obj\Debug\net5.0\TesteLuanaTCC3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aluno\Documents\Luana Borges\TesteLuanaTCC3\TesteLuanaTCC3\obj\Debug\net5.0\TesteLuanaTCC3.AssemblyInfoInputs.cache
+C:\Users\aluno\Documents\Luana Borges\TesteLuanaTCC3\TesteLuanaTCC3\obj\Debug\net5.0\TesteLuanaTCC3.AssemblyInfo.cs
+C:\Users\aluno\Documents\Luana Borges\TesteLuanaTCC3\TesteLuanaTCC3\obj\Debug\net5.0\TesteLuanaTCC3.csproj.CoreCompileInputs.cache
+C:\Users\aluno\Documents\Luana Borges\TesteLuanaTCC3\TesteLuanaTCC3\obj\Debug\net5.0\TesteLuanaTCC3.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\aluno\Documents\Luana Borges\TesteLuanaTCC3\TesteLuanaTCC3\obj\Debug\net5.0\TesteLuanaTCC3.RazorAssemblyInfo.cache
+C:\Users\aluno\Documents\Luana Borges\TesteLuanaTCC3\TesteLuanaTCC3\obj\Debug\net5.0\TesteLuanaTCC3.RazorAssemblyInfo.cs
+C:\Users\aluno\Documents\Luana Borges\TesteLuanaTCC3\TesteLuanaTCC3\obj\Debug\net5.0\staticwebassets\TesteLuanaTCC3.StaticWebAssets.Manifest.cache
+C:\Users\aluno\Documents\Luana Borges\TesteLuanaTCC3\TesteLuanaTCC3\obj\Debug\net5.0\staticwebassets\TesteLuanaTCC3.StaticWebAssets.xml
+C:\Users\aluno\Documents\Luana Borges\TesteLuanaTCC3\TesteLuanaTCC3\obj\Debug\net5.0\scopedcss\bundle\TesteLuanaTCC3.styles.css
+C:\Users\aluno\Documents\Luana Borges\TesteLuanaTCC3\TesteLuanaTCC3\obj\Debug\net5.0\TesteLuanaTCC3.TagHelpers.input.cache
+C:\Users\aluno\Documents\Luana Borges\TesteLuanaTCC3\TesteLuanaTCC3\obj\Debug\net5.0\TesteLuanaTCC3.TagHelpers.output.cache
+C:\Users\aluno\Documents\Luana Borges\TesteLuanaTCC3\TesteLuanaTCC3\obj\Debug\net5.0\TesteLuanaTCC3.RazorCoreGenerate.cache
+C:\Users\aluno\Documents\Luana Borges\TesteLuanaTCC3\TesteLuanaTCC3\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\aluno\Documents\Luana Borges\TesteLuanaTCC3\TesteLuanaTCC3\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\aluno\Documents\Luana Borges\TesteLuanaTCC3\TesteLuanaTCC3\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\aluno\Documents\Luana Borges\TesteLuanaTCC3\TesteLuanaTCC3\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\aluno\Documents\Luana Borges\TesteLuanaTCC3\TesteLuanaTCC3\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\aluno\Documents\Luana Borges\TesteLuanaTCC3\TesteLuanaTCC3\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\aluno\Documents\Luana Borges\TesteLuanaTCC3\TesteLuanaTCC3\obj\Debug\net5.0\TesteLuanaTCC3.RazorTargetAssemblyInfo.cache
+C:\Users\aluno\Documents\Luana Borges\TesteLuanaTCC3\TesteLuanaTCC3\obj\Debug\net5.0\TesteLuanaTCC3.RazorTargetAssemblyInfo.cs
+C:\Users\aluno\Documents\Luana Borges\TesteLuanaTCC3\TesteLuanaTCC3\obj\Debug\net5.0\TesteLuanaTCC3.Views.pdb
+C:\Users\aluno\Documents\Luana Borges\TesteLuanaTCC3\TesteLuanaTCC3\obj\Debug\net5.0\TesteLuanaTCC3.dll
+C:\Users\aluno\Documents\Luana Borges\TesteLuanaTCC3\TesteLuanaTCC3\obj\Debug\net5.0\ref\TesteLuanaTCC3.dll
+C:\Users\aluno\Documents\Luana Borges\TesteLuanaTCC3\TesteLuanaTCC3\obj\Debug\net5.0\TesteLuanaTCC3.pdb
+C:\Users\aluno\Documents\Luana Borges\TesteLuanaTCC3\TesteLuanaTCC3\obj\Debug\net5.0\TesteLuanaTCC3.genruntimeconfig.cache
+C:\Users\aluno\Documents\Luana Borges\TesteLuanaTCC3\TesteLuanaTCC3\obj\Debug\net5.0\TesteLuanaTCC3.csproj.CopyComplete
+C:\Users\aluno\Documents\Luana Borges\TesteLuanaTCC3\TesteLuanaTCC3\obj\Debug\net5.0\Razor\Views\Home\CadastrarEvento.cshtml.g.cs
+C:\Users\aluno\Documents\Luana Borges\TesteLuanaTCC3\TesteLuanaTCC3\obj\Debug\net5.0\Razor\Views\Home\Perfil.cshtml.g.cs
+C:\Users\aluno\Documents\Luana B\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\aluno\Documents\Luana B\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\appsettings.json
+C:\Users\aluno\Documents\Luana B\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\TesteLuanaTCC3.exe
+C:\Users\aluno\Documents\Luana B\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\TesteLuanaTCC3.deps.json
+C:\Users\aluno\Documents\Luana B\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\TesteLuanaTCC3.runtimeconfig.json
+C:\Users\aluno\Documents\Luana B\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\TesteLuanaTCC3.runtimeconfig.dev.json
+C:\Users\aluno\Documents\Luana B\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\TesteLuanaTCC3.dll
+C:\Users\aluno\Documents\Luana B\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ref\TesteLuanaTCC3.dll
+C:\Users\aluno\Documents\Luana B\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\TesteLuanaTCC3.pdb
+C:\Users\aluno\Documents\Luana B\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\TesteLuanaTCC3.Views.dll
+C:\Users\aluno\Documents\Luana B\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\TesteLuanaTCC3.Views.pdb
+C:\Users\aluno\Documents\Luana B\TesteLuanaTCC3\TesteLuanaTCC3\obj\Debug\net5.0\TesteLuanaTCC3.csprojAssemblyReference.cache
+C:\Users\aluno\Documents\Luana B\TesteLuanaTCC3\TesteLuanaTCC3\obj\Debug\net5.0\TesteLuanaTCC3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aluno\Documents\Luana B\TesteLuanaTCC3\TesteLuanaTCC3\obj\Debug\net5.0\TesteLuanaTCC3.AssemblyInfoInputs.cache
+C:\Users\aluno\Documents\Luana B\TesteLuanaTCC3\TesteLuanaTCC3\obj\Debug\net5.0\TesteLuanaTCC3.AssemblyInfo.cs
+C:\Users\aluno\Documents\Luana B\TesteLuanaTCC3\TesteLuanaTCC3\obj\Debug\net5.0\TesteLuanaTCC3.csproj.CoreCompileInputs.cache
+C:\Users\aluno\Documents\Luana B\TesteLuanaTCC3\TesteLuanaTCC3\obj\Debug\net5.0\TesteLuanaTCC3.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\aluno\Documents\Luana B\TesteLuanaTCC3\TesteLuanaTCC3\obj\Debug\net5.0\TesteLuanaTCC3.RazorAssemblyInfo.cache
+C:\Users\aluno\Documents\Luana B\TesteLuanaTCC3\TesteLuanaTCC3\obj\Debug\net5.0\TesteLuanaTCC3.RazorAssemblyInfo.cs
+C:\Users\aluno\Documents\Luana B\TesteLuanaTCC3\TesteLuanaTCC3\obj\Debug\net5.0\staticwebassets\TesteLuanaTCC3.StaticWebAssets.Manifest.cache
+C:\Users\aluno\Documents\Luana B\TesteLuanaTCC3\TesteLuanaTCC3\obj\Debug\net5.0\staticwebassets\TesteLuanaTCC3.StaticWebAssets.xml
+C:\Users\aluno\Documents\Luana B\TesteLuanaTCC3\TesteLuanaTCC3\obj\Debug\net5.0\scopedcss\bundle\TesteLuanaTCC3.styles.css
+C:\Users\aluno\Documents\Luana B\TesteLuanaTCC3\TesteLuanaTCC3\obj\Debug\net5.0\TesteLuanaTCC3.TagHelpers.input.cache
+C:\Users\aluno\Documents\Luana B\TesteLuanaTCC3\TesteLuanaTCC3\obj\Debug\net5.0\TesteLuanaTCC3.TagHelpers.output.cache
+C:\Users\aluno\Documents\Luana B\TesteLuanaTCC3\TesteLuanaTCC3\obj\Debug\net5.0\TesteLuanaTCC3.RazorCoreGenerate.cache
+C:\Users\aluno\Documents\Luana B\TesteLuanaTCC3\TesteLuanaTCC3\obj\Debug\net5.0\Razor\Views\CadastrarEvento\Index.cshtml.g.cs
+C:\Users\aluno\Documents\Luana B\TesteLuanaTCC3\TesteLuanaTCC3\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\aluno\Documents\Luana B\TesteLuanaTCC3\TesteLuanaTCC3\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\aluno\Documents\Luana B\TesteLuanaTCC3\TesteLuanaTCC3\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\aluno\Documents\Luana B\TesteLuanaTCC3\TesteLuanaTCC3\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\aluno\Documents\Luana B\TesteLuanaTCC3\TesteLuanaTCC3\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\aluno\Documents\Luana B\TesteLuanaTCC3\TesteLuanaTCC3\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\aluno\Documents\Luana B\TesteLuanaTCC3\TesteLuanaTCC3\obj\Debug\net5.0\TesteLuanaTCC3.RazorTargetAssemblyInfo.cache
+C:\Users\aluno\Documents\Luana B\TesteLuanaTCC3\TesteLuanaTCC3\obj\Debug\net5.0\TesteLuanaTCC3.RazorTargetAssemblyInfo.cs
+C:\Users\aluno\Documents\Luana B\TesteLuanaTCC3\TesteLuanaTCC3\obj\Debug\net5.0\TesteLuanaTCC3.Views.pdb
+C:\Users\aluno\Documents\Luana B\TesteLuanaTCC3\TesteLuanaTCC3\obj\Debug\net5.0\TesteLuanaTCC3.dll
+C:\Users\aluno\Documents\Luana B\TesteLuanaTCC3\TesteLuanaTCC3\obj\Debug\net5.0\ref\TesteLuanaTCC3.dll
+C:\Users\aluno\Documents\Luana B\TesteLuanaTCC3\TesteLuanaTCC3\obj\Debug\net5.0\TesteLuanaTCC3.pdb
+C:\Users\aluno\Documents\Luana B\TesteLuanaTCC3\TesteLuanaTCC3\obj\Debug\net5.0\TesteLuanaTCC3.genruntimeconfig.cache
+C:\Users\aluno\Documents\Luana B\TesteLuanaTCC3\TesteLuanaTCC3\obj\Debug\net5.0\TesteLuanaTCC3.csproj.CopyComplete
+C:\Users\aluno\Documents\LuanaBorges\TesteLuanaTCC3\TesteLuanaTCC3\obj\Debug\net5.0\Razor\Views\CadastrarEvento\Index.cshtml.g.cs
+C:\Users\aluno\Documents\LuanaBorges\TesteLuanaTCC3\TesteLuanaTCC3\obj\Debug\net5.0\Razor\Views\Perfil\Index.cshtml.g.cs
+C:\Users\aluno\Documents\LuanaBorges\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ref\TesteLuanaTCC3.dll
+C:\Users\aluno\Documents\LuanaBorges\TesteLuanaTCC3\TesteLuanaTCC3\obj\Debug\net5.0\TesteLuanaTCC3.csprojAssemblyReference.cache
+C:\Users\aluno\Documents\LuanaBorges\TesteLuanaTCC3\TesteLuanaTCC3\obj\Debug\net5.0\staticwebassets\TesteLuanaTCC3.StaticWebAssets.xml
+C:\Users\Luan\Downloads\TesteLuanaTCC3\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Luan\Downloads\TesteLuanaTCC3\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\appsettings.json
+C:\Users\Luan\Downloads\TesteLuanaTCC3\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\TesteLuanaTCC3.exe
+C:\Users\Luan\Downloads\TesteLuanaTCC3\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\TesteLuanaTCC3.deps.json
+C:\Users\Luan\Downloads\TesteLuanaTCC3\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\TesteLuanaTCC3.runtimeconfig.json
+C:\Users\Luan\Downloads\TesteLuanaTCC3\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\TesteLuanaTCC3.runtimeconfig.dev.json
+C:\Users\Luan\Downloads\TesteLuanaTCC3\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\TesteLuanaTCC3.dll
+C:\Users\Luan\Downloads\TesteLuanaTCC3\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ref\TesteLuanaTCC3.dll
+C:\Users\Luan\Downloads\TesteLuanaTCC3\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\TesteLuanaTCC3.pdb
+C:\Users\Luan\Downloads\TesteLuanaTCC3\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\TesteLuanaTCC3.Views.dll
+C:\Users\Luan\Downloads\TesteLuanaTCC3\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\TesteLuanaTCC3.Views.pdb
+C:\Users\Luan\Downloads\TesteLuanaTCC3\TesteLuanaTCC3\TesteLuanaTCC3\obj\Debug\net5.0\TesteLuanaTCC3.csproj.AssemblyReference.cache
+C:\Users\Luan\Downloads\TesteLuanaTCC3\TesteLuanaTCC3\TesteLuanaTCC3\obj\Debug\net5.0\TesteLuanaTCC3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luan\Downloads\TesteLuanaTCC3\TesteLuanaTCC3\TesteLuanaTCC3\obj\Debug\net5.0\TesteLuanaTCC3.AssemblyInfoInputs.cache
+C:\Users\Luan\Downloads\TesteLuanaTCC3\TesteLuanaTCC3\TesteLuanaTCC3\obj\Debug\net5.0\TesteLuanaTCC3.AssemblyInfo.cs
+C:\Users\Luan\Downloads\TesteLuanaTCC3\TesteLuanaTCC3\TesteLuanaTCC3\obj\Debug\net5.0\TesteLuanaTCC3.csproj.CoreCompileInputs.cache
+C:\Users\Luan\Downloads\TesteLuanaTCC3\TesteLuanaTCC3\TesteLuanaTCC3\obj\Debug\net5.0\TesteLuanaTCC3.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Luan\Downloads\TesteLuanaTCC3\TesteLuanaTCC3\TesteLuanaTCC3\obj\Debug\net5.0\TesteLuanaTCC3.RazorAssemblyInfo.cache
+C:\Users\Luan\Downloads\TesteLuanaTCC3\TesteLuanaTCC3\TesteLuanaTCC3\obj\Debug\net5.0\TesteLuanaTCC3.RazorAssemblyInfo.cs
+C:\Users\Luan\Downloads\TesteLuanaTCC3\TesteLuanaTCC3\TesteLuanaTCC3\obj\Debug\net5.0\staticwebassets\TesteLuanaTCC3.StaticWebAssets.Manifest.cache
+C:\Users\Luan\Downloads\TesteLuanaTCC3\TesteLuanaTCC3\TesteLuanaTCC3\obj\Debug\net5.0\staticwebassets\TesteLuanaTCC3.StaticWebAssets.xml
+C:\Users\Luan\Downloads\TesteLuanaTCC3\TesteLuanaTCC3\TesteLuanaTCC3\obj\Debug\net5.0\scopedcss\bundle\TesteLuanaTCC3.styles.css
+C:\Users\Luan\Downloads\TesteLuanaTCC3\TesteLuanaTCC3\TesteLuanaTCC3\obj\Debug\net5.0\TesteLuanaTCC3.TagHelpers.input.cache
+C:\Users\Luan\Downloads\TesteLuanaTCC3\TesteLuanaTCC3\TesteLuanaTCC3\obj\Debug\net5.0\TesteLuanaTCC3.TagHelpers.output.cache
+C:\Users\Luan\Downloads\TesteLuanaTCC3\TesteLuanaTCC3\TesteLuanaTCC3\obj\Debug\net5.0\TesteLuanaTCC3.RazorCoreGenerate.cache
+C:\Users\Luan\Downloads\TesteLuanaTCC3\TesteLuanaTCC3\TesteLuanaTCC3\obj\Debug\net5.0\Razor\Views\CadastrarEvento\Index.cshtml.g.cs
+C:\Users\Luan\Downloads\TesteLuanaTCC3\TesteLuanaTCC3\TesteLuanaTCC3\obj\Debug\net5.0\Razor\Views\Perfil\Index.cshtml.g.cs
+C:\Users\Luan\Downloads\TesteLuanaTCC3\TesteLuanaTCC3\TesteLuanaTCC3\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Luan\Downloads\TesteLuanaTCC3\TesteLuanaTCC3\TesteLuanaTCC3\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Luan\Downloads\TesteLuanaTCC3\TesteLuanaTCC3\TesteLuanaTCC3\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Luan\Downloads\TesteLuanaTCC3\TesteLuanaTCC3\TesteLuanaTCC3\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Luan\Downloads\TesteLuanaTCC3\TesteLuanaTCC3\TesteLuanaTCC3\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Luan\Downloads\TesteLuanaTCC3\TesteLuanaTCC3\TesteLuanaTCC3\obj\Debug\net5.0\TesteLuanaTCC3.RazorTargetAssemblyInfo.cache
+C:\Users\Luan\Downloads\TesteLuanaTCC3\TesteLuanaTCC3\TesteLuanaTCC3\obj\Debug\net5.0\TesteLuanaTCC3.RazorTargetAssemblyInfo.cs
+C:\Users\Luan\Downloads\TesteLuanaTCC3\TesteLuanaTCC3\TesteLuanaTCC3\obj\Debug\net5.0\TesteLuanaTCC3.Views.pdb
+C:\Users\Luan\Downloads\TesteLuanaTCC3\TesteLuanaTCC3\TesteLuanaTCC3\obj\Debug\net5.0\TesteLuanaTCC3.dll
+C:\Users\Luan\Downloads\TesteLuanaTCC3\TesteLuanaTCC3\TesteLuanaTCC3\obj\Debug\net5.0\ref\TesteLuanaTCC3.dll
+C:\Users\Luan\Downloads\TesteLuanaTCC3\TesteLuanaTCC3\TesteLuanaTCC3\obj\Debug\net5.0\TesteLuanaTCC3.pdb
+C:\Users\Luan\Downloads\TesteLuanaTCC3\TesteLuanaTCC3\TesteLuanaTCC3\obj\Debug\net5.0\TesteLuanaTCC3.genruntimeconfig.cache
+C:\Users\Luan\Downloads\TesteLuanaTCC3\TesteLuanaTCC3\TesteLuanaTCC3\obj\Debug\net5.0\TesteLuanaTCC3.csproj.CopyComplete
+C:\Users\Luan\Downloads\TesteLuanaTCC3\TesteLuanaTCC3\TesteLuanaTCC3\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\aluno\Documents\Luana B\TesteLuanaTCC3\TesteLuanaTCC3\obj\Debug\net5.0\Razor\Views\PaginaEvento\Index.cshtml.g.cs
+C:\Users\aluno\Documents\Luana B\TesteLuanaTCC3\TesteLuanaTCC3\obj\Debug\net5.0\Razor\Views\Perfil\Index.cshtml.g.cs
+C:\Users\aluno\Documents\LuanaBorges\TesteLuanaTCC3\TesteLuanaTCC3\obj\Debug\net5.0\Razor\Views\PaginaEvento\Index.cshtml.g.cs
+C:\Users\aluno\Documents\raphael\c\TesteLuanaTCC3\TesteLuanaTCC3\obj\Debug\net5.0\TesteLuanaTCC3.csprojAssemblyReference.cache
+C:\Users\aluno\Documents\raphael\c\TesteLuanaTCC3\TesteLuanaTCC3\obj\Debug\net5.0\TesteLuanaTCC3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aluno\Documents\raphael\c\TesteLuanaTCC3\TesteLuanaTCC3\obj\Debug\net5.0\TesteLuanaTCC3.AssemblyInfoInputs.cache
+C:\Users\aluno\Documents\raphael\c\TesteLuanaTCC3\TesteLuanaTCC3\obj\Debug\net5.0\TesteLuanaTCC3.AssemblyInfo.cs
+C:\Users\aluno\Documents\raphael\c\TesteLuanaTCC3\TesteLuanaTCC3\obj\Debug\net5.0\TesteLuanaTCC3.csproj.CoreCompileInputs.cache
+C:\Users\aluno\Documents\raphael\c\TesteLuanaTCC3\TesteLuanaTCC3\obj\Debug\net5.0\TesteLuanaTCC3.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\aluno\Documents\raphael\c\TesteLuanaTCC3\TesteLuanaTCC3\obj\Debug\net5.0\TesteLuanaTCC3.RazorAssemblyInfo.cache
+C:\Users\aluno\Documents\raphael\c\TesteLuanaTCC3\TesteLuanaTCC3\obj\Debug\net5.0\TesteLuanaTCC3.RazorAssemblyInfo.cs
+C:\Users\aluno\Documents\raphael\c\TesteLuanaTCC3\TesteLuanaTCC3\obj\Debug\net5.0\staticwebassets\TesteLuanaTCC3.StaticWebAssets.Manifest.cache
+C:\Users\aluno\Documents\raphael\c\TesteLuanaTCC3\TesteLuanaTCC3\obj\Debug\net5.0\staticwebassets\TesteLuanaTCC3.StaticWebAssets.xml
+C:\Users\aluno\Documents\raphael\c\TesteLuanaTCC3\TesteLuanaTCC3\obj\Debug\net5.0\scopedcss\bundle\TesteLuanaTCC3.styles.css
+C:\Users\aluno\Documents\raphael\c\TesteLuanaTCC3\TesteLuanaTCC3\obj\Debug\net5.0\TesteLuanaTCC3.TagHelpers.input.cache
+C:\Users\aluno\Documents\raphael\c\TesteLuanaTCC3\TesteLuanaTCC3\obj\Debug\net5.0\TesteLuanaTCC3.TagHelpers.output.cache
+C:\Users\aluno\Documents\raphael\c\TesteLuanaTCC3\TesteLuanaTCC3\obj\Debug\net5.0\TesteLuanaTCC3.RazorCoreGenerate.cache
+C:\Users\aluno\Documents\raphael\c\TesteLuanaTCC3\TesteLuanaTCC3\obj\Debug\net5.0\TesteLuanaTCC3.dll
+C:\Users\aluno\Documents\raphael\c\TesteLuanaTCC3\TesteLuanaTCC3\obj\Debug\net5.0\ref\TesteLuanaTCC3.dll
+C:\Users\aluno\Documents\raphael\c\TesteLuanaTCC3\TesteLuanaTCC3\obj\Debug\net5.0\TesteLuanaTCC3.pdb
+C:\Users\aluno\Documents\raphael\c\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\aluno\Documents\raphael\c\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\appsettings.json
+C:\Users\aluno\Documents\raphael\c\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\TesteLuanaTCC3.exe
+C:\Users\aluno\Documents\raphael\c\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\TesteLuanaTCC3.deps.json
+C:\Users\aluno\Documents\raphael\c\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\TesteLuanaTCC3.runtimeconfig.json
+C:\Users\aluno\Documents\raphael\c\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\TesteLuanaTCC3.runtimeconfig.dev.json
+C:\Users\aluno\Documents\raphael\c\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\TesteLuanaTCC3.dll
+C:\Users\aluno\Documents\raphael\c\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ref\TesteLuanaTCC3.dll
+C:\Users\aluno\Documents\raphael\c\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\TesteLuanaTCC3.pdb
+C:\Users\aluno\Documents\raphael\c\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\TesteLuanaTCC3.Views.dll
+C:\Users\aluno\Documents\raphael\c\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\TesteLuanaTCC3.Views.pdb
+C:\Users\aluno\Documents\raphael\c\TesteLuanaTCC3\TesteLuanaTCC3\obj\Debug\net5.0\Razor\Views\CadastrarEvento\Index.cshtml.g.cs
+C:\Users\aluno\Documents\raphael\c\TesteLuanaTCC3\TesteLuanaTCC3\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\aluno\Documents\raphael\c\TesteLuanaTCC3\TesteLuanaTCC3\obj\Debug\net5.0\Razor\Views\PaginaEvento\Index.cshtml.g.cs
+C:\Users\aluno\Documents\raphael\c\TesteLuanaTCC3\TesteLuanaTCC3\obj\Debug\net5.0\Razor\Views\Perfil\Index.cshtml.g.cs
+C:\Users\aluno\Documents\raphael\c\TesteLuanaTCC3\TesteLuanaTCC3\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\aluno\Documents\raphael\c\TesteLuanaTCC3\TesteLuanaTCC3\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\aluno\Documents\raphael\c\TesteLuanaTCC3\TesteLuanaTCC3\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\aluno\Documents\raphael\c\TesteLuanaTCC3\TesteLuanaTCC3\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\aluno\Documents\raphael\c\TesteLuanaTCC3\TesteLuanaTCC3\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\aluno\Documents\raphael\c\TesteLuanaTCC3\TesteLuanaTCC3\obj\Debug\net5.0\TesteLuanaTCC3.RazorTargetAssemblyInfo.cache
+C:\Users\aluno\Documents\raphael\c\TesteLuanaTCC3\TesteLuanaTCC3\obj\Debug\net5.0\TesteLuanaTCC3.RazorTargetAssemblyInfo.cs
+C:\Users\aluno\Documents\raphael\c\TesteLuanaTCC3\TesteLuanaTCC3\obj\Debug\net5.0\TesteLuanaTCC3.Views.pdb
+C:\Users\aluno\Documents\raphael\c\TesteLuanaTCC3\TesteLuanaTCC3\obj\Debug\net5.0\TesteLuanaTCC3.genruntimeconfig.cache
+C:\Users\aluno\Documents\raphael\c\TesteLuanaTCC3\TesteLuanaTCC3\obj\Debug\net5.0\TesteLuanaTCC3.csproj.CopyComplete
+C:\Users\rapha\Documents\essePraEntrega\TesteLuanaTCC3\TesteLuanaTCC3\obj\Debug\net5.0\TesteLuanaTCC3.csproj.AssemblyReference.cache
+C:\Users\rapha\Documents\essePraEntrega\TesteLuanaTCC3\TesteLuanaTCC3\obj\Debug\net5.0\TesteLuanaTCC3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rapha\Documents\essePraEntrega\TesteLuanaTCC3\TesteLuanaTCC3\obj\Debug\net5.0\TesteLuanaTCC3.AssemblyInfoInputs.cache
+C:\Users\rapha\Documents\essePraEntrega\TesteLuanaTCC3\TesteLuanaTCC3\obj\Debug\net5.0\TesteLuanaTCC3.AssemblyInfo.cs
+C:\Users\rapha\Documents\essePraEntrega\TesteLuanaTCC3\TesteLuanaTCC3\obj\Debug\net5.0\TesteLuanaTCC3.csproj.CoreCompileInputs.cache
+C:\Users\rapha\Documents\essePraEntrega\TesteLuanaTCC3\TesteLuanaTCC3\obj\Debug\net5.0\TesteLuanaTCC3.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\rapha\Documents\essePraEntrega\TesteLuanaTCC3\TesteLuanaTCC3\obj\Debug\net5.0\TesteLuanaTCC3.RazorAssemblyInfo.cache
+C:\Users\rapha\Documents\essePraEntrega\TesteLuanaTCC3\TesteLuanaTCC3\obj\Debug\net5.0\TesteLuanaTCC3.RazorAssemblyInfo.cs
+C:\Users\rapha\Documents\essePraEntrega\TesteLuanaTCC3\TesteLuanaTCC3\obj\Debug\net5.0\TesteLuanaTCC3.dll
+C:\Users\rapha\Documents\essePraEntrega\TesteLuanaTCC3\TesteLuanaTCC3\obj\Debug\net5.0\TesteLuanaTCC3.pdb
+C:\Users\rapha\Documents\essePraEntrega\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\rapha\Documents\essePraEntrega\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\appsettings.json
+C:\Users\rapha\Documents\essePraEntrega\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\TesteLuanaTCC3.StaticWebAssets.xml
+C:\Users\rapha\Documents\essePraEntrega\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\TesteLuanaTCC3.exe
+C:\Users\rapha\Documents\essePraEntrega\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\TesteLuanaTCC3.deps.json
+C:\Users\rapha\Documents\essePraEntrega\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\TesteLuanaTCC3.runtimeconfig.json
+C:\Users\rapha\Documents\essePraEntrega\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\TesteLuanaTCC3.runtimeconfig.dev.json
+C:\Users\rapha\Documents\essePraEntrega\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\TesteLuanaTCC3.dll
+C:\Users\rapha\Documents\essePraEntrega\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\TesteLuanaTCC3.pdb
+C:\Users\rapha\Documents\essePraEntrega\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\TesteLuanaTCC3.Views.dll
+C:\Users\rapha\Documents\essePraEntrega\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\TesteLuanaTCC3.Views.pdb
+C:\Users\rapha\Documents\essePraEntrega\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\MySql.Data.dll
+C:\Users\rapha\Documents\essePraEntrega\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\rapha\Documents\essePraEntrega\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\rapha\Documents\essePraEntrega\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\rapha\Documents\essePraEntrega\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\rapha\Documents\essePraEntrega\TesteLuanaTCC3\TesteLuanaTCC3\obj\Debug\net5.0\scopedcss\bundle\TesteLuanaTCC3.styles.css
+C:\Users\rapha\Documents\essePraEntrega\TesteLuanaTCC3\TesteLuanaTCC3\obj\Debug\net5.0\staticwebassets\TesteLuanaTCC3.StaticWebAssets.Manifest.cache
+C:\Users\rapha\Documents\essePraEntrega\TesteLuanaTCC3\TesteLuanaTCC3\obj\Debug\net5.0\TesteLuanaTCC3.TagHelpers.input.cache
+C:\Users\rapha\Documents\essePraEntrega\TesteLuanaTCC3\TesteLuanaTCC3\obj\Debug\net5.0\TesteLuanaTCC3.TagHelpers.output.cache
+C:\Users\rapha\Documents\essePraEntrega\TesteLuanaTCC3\TesteLuanaTCC3\obj\Debug\net5.0\TesteLuanaTCC3.RazorCoreGenerate.cache
+C:\Users\rapha\Documents\essePraEntrega\TesteLuanaTCC3\TesteLuanaTCC3\obj\Debug\net5.0\Razor\Views\CadastrarEvento\Index.cshtml.g.cs
+C:\Users\rapha\Documents\essePraEntrega\TesteLuanaTCC3\TesteLuanaTCC3\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\rapha\Documents\essePraEntrega\TesteLuanaTCC3\TesteLuanaTCC3\obj\Debug\net5.0\Razor\Views\Perfil\Index.cshtml.g.cs
+C:\Users\rapha\Documents\essePraEntrega\TesteLuanaTCC3\TesteLuanaTCC3\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\rapha\Documents\essePraEntrega\TesteLuanaTCC3\TesteLuanaTCC3\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\rapha\Documents\essePraEntrega\TesteLuanaTCC3\TesteLuanaTCC3\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\rapha\Documents\essePraEntrega\TesteLuanaTCC3\TesteLuanaTCC3\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\rapha\Documents\essePraEntrega\TesteLuanaTCC3\TesteLuanaTCC3\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\rapha\Documents\essePraEntrega\TesteLuanaTCC3\TesteLuanaTCC3\obj\Debug\net5.0\TesteLuanaTCC3.RazorTargetAssemblyInfo.cache
+C:\Users\rapha\Documents\essePraEntrega\TesteLuanaTCC3\TesteLuanaTCC3\obj\Debug\net5.0\TesteLuanaTCC3.RazorTargetAssemblyInfo.cs
+C:\Users\rapha\Documents\essePraEntrega\TesteLuanaTCC3\TesteLuanaTCC3\obj\Debug\net5.0\TesteLuanaTCC3.Views.pdb
+C:\Users\rapha\Documents\essePraEntrega\TesteLuanaTCC3\TesteLuanaTCC3\obj\Debug\net5.0\TesteLuanaTCC3.csproj.CopyComplete
+C:\Users\rapha\Documents\essePraEntrega\TesteLuanaTCC3\TesteLuanaTCC3\obj\Debug\net5.0\refint\TesteLuanaTCC3.dll
+C:\Users\rapha\Documents\essePraEntrega\TesteLuanaTCC3\TesteLuanaTCC3\obj\Debug\net5.0\TesteLuanaTCC3.genruntimeconfig.cache
+C:\Users\rapha\Documents\essePraEntrega\TesteLuanaTCC3\TesteLuanaTCC3\obj\Debug\net5.0\ref\TesteLuanaTCC3.dll
+C:\Users\aluno\Documents\raphael\a\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\aluno\Documents\raphael\a\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\appsettings.json
+C:\Users\aluno\Documents\raphael\a\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\TesteLuanaTCC3.exe
+C:\Users\aluno\Documents\raphael\a\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\TesteLuanaTCC3.deps.json
+C:\Users\aluno\Documents\raphael\a\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\TesteLuanaTCC3.runtimeconfig.json
+C:\Users\aluno\Documents\raphael\a\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\TesteLuanaTCC3.runtimeconfig.dev.json
+C:\Users\aluno\Documents\raphael\a\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\TesteLuanaTCC3.dll
+C:\Users\aluno\Documents\raphael\a\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ref\TesteLuanaTCC3.dll
+C:\Users\aluno\Documents\raphael\a\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\TesteLuanaTCC3.pdb
+C:\Users\aluno\Documents\raphael\a\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\TesteLuanaTCC3.Views.dll
+C:\Users\aluno\Documents\raphael\a\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\TesteLuanaTCC3.Views.pdb
+C:\Users\aluno\Documents\raphael\a\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\MySql.Data.dll
+C:\Users\aluno\Documents\raphael\a\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\aluno\Documents\raphael\a\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\aluno\Documents\raphael\a\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\aluno\Documents\raphael\a\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\aluno\Documents\raphael\a\TesteLuanaTCC3\TesteLuanaTCC3\obj\Debug\net5.0\TesteLuanaTCC3.csprojAssemblyReference.cache
+C:\Users\aluno\Documents\raphael\a\TesteLuanaTCC3\TesteLuanaTCC3\obj\Debug\net5.0\TesteLuanaTCC3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aluno\Documents\raphael\a\TesteLuanaTCC3\TesteLuanaTCC3\obj\Debug\net5.0\TesteLuanaTCC3.AssemblyInfoInputs.cache
+C:\Users\aluno\Documents\raphael\a\TesteLuanaTCC3\TesteLuanaTCC3\obj\Debug\net5.0\TesteLuanaTCC3.AssemblyInfo.cs
+C:\Users\aluno\Documents\raphael\a\TesteLuanaTCC3\TesteLuanaTCC3\obj\Debug\net5.0\TesteLuanaTCC3.csproj.CoreCompileInputs.cache
+C:\Users\aluno\Documents\raphael\a\TesteLuanaTCC3\TesteLuanaTCC3\obj\Debug\net5.0\TesteLuanaTCC3.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\aluno\Documents\raphael\a\TesteLuanaTCC3\TesteLuanaTCC3\obj\Debug\net5.0\TesteLuanaTCC3.RazorAssemblyInfo.cache
+C:\Users\aluno\Documents\raphael\a\TesteLuanaTCC3\TesteLuanaTCC3\obj\Debug\net5.0\TesteLuanaTCC3.RazorAssemblyInfo.cs
+C:\Users\aluno\Documents\raphael\a\TesteLuanaTCC3\TesteLuanaTCC3\obj\Debug\net5.0\staticwebassets\TesteLuanaTCC3.StaticWebAssets.Manifest.cache
+C:\Users\aluno\Documents\raphael\a\TesteLuanaTCC3\TesteLuanaTCC3\obj\Debug\net5.0\staticwebassets\TesteLuanaTCC3.StaticWebAssets.xml
+C:\Users\aluno\Documents\raphael\a\TesteLuanaTCC3\TesteLuanaTCC3\obj\Debug\net5.0\scopedcss\bundle\TesteLuanaTCC3.styles.css
+C:\Users\aluno\Documents\raphael\a\TesteLuanaTCC3\TesteLuanaTCC3\obj\Debug\net5.0\TesteLuanaTCC3.TagHelpers.input.cache
+C:\Users\aluno\Documents\raphael\a\TesteLuanaTCC3\TesteLuanaTCC3\obj\Debug\net5.0\TesteLuanaTCC3.TagHelpers.output.cache
+C:\Users\aluno\Documents\raphael\a\TesteLuanaTCC3\TesteLuanaTCC3\obj\Debug\net5.0\TesteLuanaTCC3.RazorCoreGenerate.cache
+C:\Users\aluno\Documents\raphael\a\TesteLuanaTCC3\TesteLuanaTCC3\obj\Debug\net5.0\Razor\Views\CadastrarEvento\Index.cshtml.g.cs
+C:\Users\aluno\Documents\raphael\a\TesteLuanaTCC3\TesteLuanaTCC3\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\aluno\Documents\raphael\a\TesteLuanaTCC3\TesteLuanaTCC3\obj\Debug\net5.0\Razor\Views\PaginaEvento\Index.cshtml.g.cs
+C:\Users\aluno\Documents\raphael\a\TesteLuanaTCC3\TesteLuanaTCC3\obj\Debug\net5.0\Razor\Views\Perfil\Index.cshtml.g.cs
+C:\Users\aluno\Documents\raphael\a\TesteLuanaTCC3\TesteLuanaTCC3\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\aluno\Documents\raphael\a\TesteLuanaTCC3\TesteLuanaTCC3\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\aluno\Documents\raphael\a\TesteLuanaTCC3\TesteLuanaTCC3\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\aluno\Documents\raphael\a\TesteLuanaTCC3\TesteLuanaTCC3\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\aluno\Documents\raphael\a\TesteLuanaTCC3\TesteLuanaTCC3\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\aluno\Documents\raphael\a\TesteLuanaTCC3\TesteLuanaTCC3\obj\Debug\net5.0\TesteLuanaTCC3.RazorTargetAssemblyInfo.cache
+C:\Users\aluno\Documents\raphael\a\TesteLuanaTCC3\TesteLuanaTCC3\obj\Debug\net5.0\TesteLuanaTCC3.RazorTargetAssemblyInfo.cs
+C:\Users\aluno\Documents\raphael\a\TesteLuanaTCC3\TesteLuanaTCC3\obj\Debug\net5.0\TesteLuanaTCC3.Views.pdb
+C:\Users\aluno\Documents\raphael\a\TesteLuanaTCC3\TesteLuanaTCC3\obj\Debug\net5.0\TesteLuanaTCC3.csproj.CopyComplete
+C:\Users\aluno\Documents\raphael\a\TesteLuanaTCC3\TesteLuanaTCC3\obj\Debug\net5.0\TesteLuanaTCC3.dll
+C:\Users\aluno\Documents\raphael\a\TesteLuanaTCC3\TesteLuanaTCC3\obj\Debug\net5.0\ref\TesteLuanaTCC3.dll
+C:\Users\aluno\Documents\raphael\a\TesteLuanaTCC3\TesteLuanaTCC3\obj\Debug\net5.0\TesteLuanaTCC3.pdb
+C:\Users\aluno\Documents\raphael\a\TesteLuanaTCC3\TesteLuanaTCC3\obj\Debug\net5.0\TesteLuanaTCC3.genruntimeconfig.cache
+C:\Users\aluno\Documents\raphael\a\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\win7-x64\bin\ikvm.properties
+C:\Users\aluno\Documents\raphael\a\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\win7-x64\lib\calendars.properties
+C:\Users\aluno\Documents\raphael\a\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\win7-x64\lib\cmm\CIEXYZ.pf
+C:\Users\aluno\Documents\raphael\a\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\win7-x64\lib\cmm\GRAY.pf
+C:\Users\aluno\Documents\raphael\a\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\win7-x64\lib\cmm\LINEAR_RGB.pf
+C:\Users\aluno\Documents\raphael\a\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\win7-x64\lib\cmm\PYCC.pf
+C:\Users\aluno\Documents\raphael\a\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\win7-x64\lib\cmm\sRGB.pf
+C:\Users\aluno\Documents\raphael\a\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\win7-x64\lib\content-types.properties
+C:\Users\aluno\Documents\raphael\a\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\win7-x64\lib\currency.data
+C:\Users\aluno\Documents\raphael\a\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\win7-x64\lib\flavormap.properties
+C:\Users\aluno\Documents\raphael\a\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\win7-x64\lib\hijrah-config-umalqura.properties
+C:\Users\aluno\Documents\raphael\a\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\win7-x64\lib\logging.properties
+C:\Users\aluno\Documents\raphael\a\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\win7-x64\lib\management\jmxremote.access
+C:\Users\aluno\Documents\raphael\a\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\win7-x64\lib\management\jmxremote.password.template
+C:\Users\aluno\Documents\raphael\a\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\win7-x64\lib\management\management.properties
+C:\Users\aluno\Documents\raphael\a\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\win7-x64\lib\management\snmp.acl.template
+C:\Users\aluno\Documents\raphael\a\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\win7-x64\lib\net.properties
+C:\Users\aluno\Documents\raphael\a\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\win7-x64\lib\plugin.properties
+C:\Users\aluno\Documents\raphael\a\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\win7-x64\lib\psfontj2d.properties
+C:\Users\aluno\Documents\raphael\a\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\win7-x64\lib\security\blacklisted.certs
+C:\Users\aluno\Documents\raphael\a\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\win7-x64\lib\security\java.policy
+C:\Users\aluno\Documents\raphael\a\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\win7-x64\lib\security\java.security
+C:\Users\aluno\Documents\raphael\a\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\win7-x64\lib\security\local_policy.jar
+C:\Users\aluno\Documents\raphael\a\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\win7-x64\lib\security\US_export_policy.jar
+C:\Users\aluno\Documents\raphael\a\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\win7-x64\lib\sound.properties
+C:\Users\aluno\Documents\raphael\a\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\win7-x64\lib\tzdb.dat
+C:\Users\aluno\Documents\raphael\a\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\win7-x64\lib\tzmappings
+C:\Users\aluno\Documents\raphael\a\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\win7-x64\LICENSE.md
+C:\Users\aluno\Documents\raphael\a\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\win7-x64\README.md
+C:\Users\aluno\Documents\raphael\a\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\win7-x64\THIRD_PARTY_README
+C:\Users\aluno\Documents\raphael\a\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\win7-x64\TRADEMARK
+C:\Users\aluno\Documents\raphael\a\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\win7-x86\bin\ikvm.properties
+C:\Users\aluno\Documents\raphael\a\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\win7-x86\lib\calendars.properties
+C:\Users\aluno\Documents\raphael\a\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\win7-x86\lib\cmm\CIEXYZ.pf
+C:\Users\aluno\Documents\raphael\a\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\win7-x86\lib\cmm\GRAY.pf
+C:\Users\aluno\Documents\raphael\a\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\win7-x86\lib\cmm\LINEAR_RGB.pf
+C:\Users\aluno\Documents\raphael\a\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\win7-x86\lib\cmm\PYCC.pf
+C:\Users\aluno\Documents\raphael\a\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\win7-x86\lib\cmm\sRGB.pf
+C:\Users\aluno\Documents\raphael\a\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\win7-x86\lib\content-types.properties
+C:\Users\aluno\Documents\raphael\a\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\win7-x86\lib\currency.data
+C:\Users\aluno\Documents\raphael\a\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\win7-x86\lib\flavormap.properties
+C:\Users\aluno\Documents\raphael\a\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\win7-x86\lib\hijrah-config-umalqura.properties
+C:\Users\aluno\Documents\raphael\a\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\win7-x86\lib\logging.properties
+C:\Users\aluno\Documents\raphael\a\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\win7-x86\lib\management\jmxremote.access
+C:\Users\aluno\Documents\raphael\a\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\win7-x86\lib\management\jmxremote.password.template
+C:\Users\aluno\Documents\raphael\a\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\win7-x86\lib\management\management.properties
+C:\Users\aluno\Documents\raphael\a\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\win7-x86\lib\management\snmp.acl.template
+C:\Users\aluno\Documents\raphael\a\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\win7-x86\lib\net.properties
+C:\Users\aluno\Documents\raphael\a\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\win7-x86\lib\plugin.properties
+C:\Users\aluno\Documents\raphael\a\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\win7-x86\lib\psfontj2d.properties
+C:\Users\aluno\Documents\raphael\a\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\win7-x86\lib\security\blacklisted.certs
+C:\Users\aluno\Documents\raphael\a\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\win7-x86\lib\security\java.policy
+C:\Users\aluno\Documents\raphael\a\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\win7-x86\lib\security\java.security
+C:\Users\aluno\Documents\raphael\a\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\win7-x86\lib\security\local_policy.jar
+C:\Users\aluno\Documents\raphael\a\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\win7-x86\lib\security\US_export_policy.jar
+C:\Users\aluno\Documents\raphael\a\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\win7-x86\lib\sound.properties
+C:\Users\aluno\Documents\raphael\a\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\win7-x86\lib\tzdb.dat
+C:\Users\aluno\Documents\raphael\a\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\win7-x86\lib\tzmappings
+C:\Users\aluno\Documents\raphael\a\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\win7-x86\LICENSE.md
+C:\Users\aluno\Documents\raphael\a\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\win7-x86\README.md
+C:\Users\aluno\Documents\raphael\a\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\win7-x86\THIRD_PARTY_README
+C:\Users\aluno\Documents\raphael\a\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\win7-x86\TRADEMARK
+C:\Users\aluno\Documents\raphael\a\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\win81-arm\bin\ikvm.properties
+C:\Users\aluno\Documents\raphael\a\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\win81-arm\lib\calendars.properties
+C:\Users\aluno\Documents\raphael\a\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\win81-arm\lib\cmm\CIEXYZ.pf
+C:\Users\aluno\Documents\raphael\a\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\win81-arm\lib\cmm\GRAY.pf
+C:\Users\aluno\Documents\raphael\a\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\win81-arm\lib\cmm\LINEAR_RGB.pf
+C:\Users\aluno\Documents\raphael\a\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\win81-arm\lib\cmm\PYCC.pf
+C:\Users\aluno\Documents\raphael\a\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\win81-arm\lib\cmm\sRGB.pf
+C:\Users\aluno\Documents\raphael\a\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\win81-arm\lib\content-types.properties
+C:\Users\aluno\Documents\raphael\a\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\win81-arm\lib\currency.data
+C:\Users\aluno\Documents\raphael\a\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\win81-arm\lib\flavormap.properties
+C:\Users\aluno\Documents\raphael\a\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\win81-arm\lib\hijrah-config-umalqura.properties
+C:\Users\aluno\Documents\raphael\a\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\win81-arm\lib\logging.properties
+C:\Users\aluno\Documents\raphael\a\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\win81-arm\lib\management\jmxremote.access
+C:\Users\aluno\Documents\raphael\a\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\win81-arm\lib\management\jmxremote.password.template
+C:\Users\aluno\Documents\raphael\a\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\win81-arm\lib\management\management.properties
+C:\Users\aluno\Documents\raphael\a\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\win81-arm\lib\management\snmp.acl.template
+C:\Users\aluno\Documents\raphael\a\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\win81-arm\lib\net.properties
+C:\Users\aluno\Documents\raphael\a\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\win81-arm\lib\plugin.properties
+C:\Users\aluno\Documents\raphael\a\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\win81-arm\lib\psfontj2d.properties
+C:\Users\aluno\Documents\raphael\a\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\win81-arm\lib\security\blacklisted.certs
+C:\Users\aluno\Documents\raphael\a\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\win81-arm\lib\security\java.policy
+C:\Users\aluno\Documents\raphael\a\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\win81-arm\lib\security\java.security
+C:\Users\aluno\Documents\raphael\a\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\win81-arm\lib\security\local_policy.jar
+C:\Users\aluno\Documents\raphael\a\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\win81-arm\lib\security\US_export_policy.jar
+C:\Users\aluno\Documents\raphael\a\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\win81-arm\lib\sound.properties
+C:\Users\aluno\Documents\raphael\a\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\win81-arm\lib\tzdb.dat
+C:\Users\aluno\Documents\raphael\a\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\win81-arm\lib\tzmappings
+C:\Users\aluno\Documents\raphael\a\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\win81-arm\LICENSE.md
+C:\Users\aluno\Documents\raphael\a\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\win81-arm\README.md
+C:\Users\aluno\Documents\raphael\a\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\win81-arm\THIRD_PARTY_README
+C:\Users\aluno\Documents\raphael\a\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\win81-arm\TRADEMARK
+C:\Users\aluno\Documents\raphael\a\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\win10-arm64\bin\ikvm.properties
+C:\Users\aluno\Documents\raphael\a\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\win10-arm64\lib\calendars.properties
+C:\Users\aluno\Documents\raphael\a\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\win10-arm64\lib\cmm\CIEXYZ.pf
+C:\Users\aluno\Documents\raphael\a\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\win10-arm64\lib\cmm\GRAY.pf
+C:\Users\aluno\Documents\raphael\a\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\win10-arm64\lib\cmm\LINEAR_RGB.pf
+C:\Users\aluno\Documents\raphael\a\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\win10-arm64\lib\cmm\PYCC.pf
+C:\Users\aluno\Documents\raphael\a\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\win10-arm64\lib\cmm\sRGB.pf
+C:\Users\aluno\Documents\raphael\a\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\win10-arm64\lib\content-types.properties
+C:\Users\aluno\Documents\raphael\a\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\win10-arm64\lib\currency.data
+C:\Users\aluno\Documents\raphael\a\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\win10-arm64\lib\flavormap.properties
+C:\Users\aluno\Documents\raphael\a\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\win10-arm64\lib\hijrah-config-umalqura.properties
+C:\Users\aluno\Documents\raphael\a\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\win10-arm64\lib\logging.properties
+C:\Users\aluno\Documents\raphael\a\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\win10-arm64\lib\management\jmxremote.access
+C:\Users\aluno\Documents\raphael\a\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\win10-arm64\lib\management\jmxremote.password.template
+C:\Users\aluno\Documents\raphael\a\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\win10-arm64\lib\management\management.properties
+C:\Users\aluno\Documents\raphael\a\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\win10-arm64\lib\management\snmp.acl.template
+C:\Users\aluno\Documents\raphael\a\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\win10-arm64\lib\net.properties
+C:\Users\aluno\Documents\raphael\a\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\win10-arm64\lib\plugin.properties
+C:\Users\aluno\Documents\raphael\a\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\win10-arm64\lib\psfontj2d.properties
+C:\Users\aluno\Documents\raphael\a\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\win10-arm64\lib\security\blacklisted.certs
+C:\Users\aluno\Documents\raphael\a\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\win10-arm64\lib\security\java.policy
+C:\Users\aluno\Documents\raphael\a\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\win10-arm64\lib\security\java.security
+C:\Users\aluno\Documents\raphael\a\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\win10-arm64\lib\security\local_policy.jar
+C:\Users\aluno\Documents\raphael\a\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\win10-arm64\lib\security\US_export_policy.jar
+C:\Users\aluno\Documents\raphael\a\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\win10-arm64\lib\sound.properties
+C:\Users\aluno\Documents\raphael\a\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\win10-arm64\lib\tzdb.dat
+C:\Users\aluno\Documents\raphael\a\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\win10-arm64\lib\tzmappings
+C:\Users\aluno\Documents\raphael\a\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\win10-arm64\LICENSE.md
+C:\Users\aluno\Documents\raphael\a\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\win10-arm64\README.md
+C:\Users\aluno\Documents\raphael\a\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\win10-arm64\THIRD_PARTY_README
+C:\Users\aluno\Documents\raphael\a\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\win10-arm64\TRADEMARK
+C:\Users\aluno\Documents\raphael\a\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\linux-x64\bin\ikvm.properties
+C:\Users\aluno\Documents\raphael\a\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\linux-x64\lib\calendars.properties
+C:\Users\aluno\Documents\raphael\a\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\linux-x64\lib\cmm\CIEXYZ.pf
+C:\Users\aluno\Documents\raphael\a\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\linux-x64\lib\cmm\GRAY.pf
+C:\Users\aluno\Documents\raphael\a\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\linux-x64\lib\cmm\LINEAR_RGB.pf
+C:\Users\aluno\Documents\raphael\a\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\linux-x64\lib\cmm\PYCC.pf
+C:\Users\aluno\Documents\raphael\a\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\linux-x64\lib\cmm\sRGB.pf
+C:\Users\aluno\Documents\raphael\a\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\linux-x64\lib\content-types.properties
+C:\Users\aluno\Documents\raphael\a\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\linux-x64\lib\currency.data
+C:\Users\aluno\Documents\raphael\a\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\linux-x64\lib\flavormap.properties
+C:\Users\aluno\Documents\raphael\a\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\linux-x64\lib\hijrah-config-umalqura.properties
+C:\Users\aluno\Documents\raphael\a\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\linux-x64\lib\logging.properties
+C:\Users\aluno\Documents\raphael\a\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\linux-x64\lib\management\jmxremote.access
+C:\Users\aluno\Documents\raphael\a\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\linux-x64\lib\management\jmxremote.password.template
+C:\Users\aluno\Documents\raphael\a\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\linux-x64\lib\management\management.properties
+C:\Users\aluno\Documents\raphael\a\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\linux-x64\lib\management\snmp.acl.template
+C:\Users\aluno\Documents\raphael\a\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\linux-x64\lib\net.properties
+C:\Users\aluno\Documents\raphael\a\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\linux-x64\lib\plugin.properties
+C:\Users\aluno\Documents\raphael\a\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\linux-x64\lib\psfontj2d.properties
+C:\Users\aluno\Documents\raphael\a\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\linux-x64\lib\security\blacklisted.certs
+C:\Users\aluno\Documents\raphael\a\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\linux-x64\lib\security\java.policy
+C:\Users\aluno\Documents\raphael\a\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\linux-x64\lib\security\java.security
+C:\Users\aluno\Documents\raphael\a\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\linux-x64\lib\security\local_policy.jar
+C:\Users\aluno\Documents\raphael\a\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\linux-x64\lib\security\US_export_policy.jar
+C:\Users\aluno\Documents\raphael\a\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\linux-x64\lib\sound.properties
+C:\Users\aluno\Documents\raphael\a\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\linux-x64\lib\tzdb.dat
+C:\Users\aluno\Documents\raphael\a\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\linux-x64\lib\tzmappings
+C:\Users\aluno\Documents\raphael\a\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\linux-x64\LICENSE.md
+C:\Users\aluno\Documents\raphael\a\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\linux-x64\README.md
+C:\Users\aluno\Documents\raphael\a\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\linux-x64\THIRD_PARTY_README
+C:\Users\aluno\Documents\raphael\a\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\linux-x64\TRADEMARK
+C:\Users\aluno\Documents\raphael\a\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\linux-arm\bin\ikvm.properties
+C:\Users\aluno\Documents\raphael\a\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\linux-arm\lib\calendars.properties
+C:\Users\aluno\Documents\raphael\a\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\linux-arm\lib\cmm\CIEXYZ.pf
+C:\Users\aluno\Documents\raphael\a\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\linux-arm\lib\cmm\GRAY.pf
+C:\Users\aluno\Documents\raphael\a\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\linux-arm\lib\cmm\LINEAR_RGB.pf
+C:\Users\aluno\Documents\raphael\a\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\linux-arm\lib\cmm\PYCC.pf
+C:\Users\aluno\Documents\raphael\a\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\linux-arm\lib\cmm\sRGB.pf
+C:\Users\aluno\Documents\raphael\a\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\linux-arm\lib\content-types.properties
+C:\Users\aluno\Documents\raphael\a\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\linux-arm\lib\currency.data
+C:\Users\aluno\Documents\raphael\a\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\linux-arm\lib\flavormap.properties
+C:\Users\aluno\Documents\raphael\a\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\linux-arm\lib\hijrah-config-umalqura.properties
+C:\Users\aluno\Documents\raphael\a\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\linux-arm\lib\logging.properties
+C:\Users\aluno\Documents\raphael\a\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\linux-arm\lib\management\jmxremote.access
+C:\Users\aluno\Documents\raphael\a\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\linux-arm\lib\management\jmxremote.password.template
+C:\Users\aluno\Documents\raphael\a\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\linux-arm\lib\management\management.properties
+C:\Users\aluno\Documents\raphael\a\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\linux-arm\lib\management\snmp.acl.template
+C:\Users\aluno\Documents\raphael\a\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\linux-arm\lib\net.properties
+C:\Users\aluno\Documents\raphael\a\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\linux-arm\lib\plugin.properties
+C:\Users\aluno\Documents\raphael\a\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\linux-arm\lib\psfontj2d.properties
+C:\Users\aluno\Documents\raphael\a\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\linux-arm\lib\security\blacklisted.certs
+C:\Users\aluno\Documents\raphael\a\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\linux-arm\lib\security\java.policy
+C:\Users\aluno\Documents\raphael\a\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\linux-arm\lib\security\java.security
+C:\Users\aluno\Documents\raphael\a\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\linux-arm\lib\security\local_policy.jar
+C:\Users\aluno\Documents\raphael\a\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\linux-arm\lib\security\US_export_policy.jar
+C:\Users\aluno\Documents\raphael\a\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\linux-arm\lib\sound.properties
+C:\Users\aluno\Documents\raphael\a\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\linux-arm\lib\tzdb.dat
+C:\Users\aluno\Documents\raphael\a\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\linux-arm\lib\tzmappings
+C:\Users\aluno\Documents\raphael\a\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\linux-arm\LICENSE.md
+C:\Users\aluno\Documents\raphael\a\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\linux-arm\README.md
+C:\Users\aluno\Documents\raphael\a\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\linux-arm\THIRD_PARTY_README
+C:\Users\aluno\Documents\raphael\a\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\linux-arm\TRADEMARK
+C:\Users\aluno\Documents\raphael\a\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\linux-arm64\bin\ikvm.properties
+C:\Users\aluno\Documents\raphael\a\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\linux-arm64\lib\calendars.properties
+C:\Users\aluno\Documents\raphael\a\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\linux-arm64\lib\cmm\CIEXYZ.pf
+C:\Users\aluno\Documents\raphael\a\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\linux-arm64\lib\cmm\GRAY.pf
+C:\Users\aluno\Documents\raphael\a\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\linux-arm64\lib\cmm\LINEAR_RGB.pf
+C:\Users\aluno\Documents\raphael\a\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\linux-arm64\lib\cmm\PYCC.pf
+C:\Users\aluno\Documents\raphael\a\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\linux-arm64\lib\cmm\sRGB.pf
+C:\Users\aluno\Documents\raphael\a\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\linux-arm64\lib\content-types.properties
+C:\Users\aluno\Documents\raphael\a\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\linux-arm64\lib\currency.data
+C:\Users\aluno\Documents\raphael\a\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\linux-arm64\lib\flavormap.properties
+C:\Users\aluno\Documents\raphael\a\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\linux-arm64\lib\hijrah-config-umalqura.properties
+C:\Users\aluno\Documents\raphael\a\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\linux-arm64\lib\logging.properties
+C:\Users\aluno\Documents\raphael\a\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\linux-arm64\lib\management\jmxremote.access
+C:\Users\aluno\Documents\raphael\a\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\linux-arm64\lib\management\jmxremote.password.template
+C:\Users\aluno\Documents\raphael\a\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\linux-arm64\lib\management\management.properties
+C:\Users\aluno\Documents\raphael\a\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\linux-arm64\lib\management\snmp.acl.template
+C:\Users\aluno\Documents\raphael\a\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\linux-arm64\lib\net.properties
+C:\Users\aluno\Documents\raphael\a\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\linux-arm64\lib\plugin.properties
+C:\Users\aluno\Documents\raphael\a\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\linux-arm64\lib\psfontj2d.properties
+C:\Users\aluno\Documents\raphael\a\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\linux-arm64\lib\security\blacklisted.certs
+C:\Users\aluno\Documents\raphael\a\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\linux-arm64\lib\security\java.policy
+C:\Users\aluno\Documents\raphael\a\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\linux-arm64\lib\security\java.security
+C:\Users\aluno\Documents\raphael\a\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\linux-arm64\lib\security\local_policy.jar
+C:\Users\aluno\Documents\raphael\a\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\linux-arm64\lib\security\US_export_policy.jar
+C:\Users\aluno\Documents\raphael\a\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\linux-arm64\lib\sound.properties
+C:\Users\aluno\Documents\raphael\a\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\linux-arm64\lib\tzdb.dat
+C:\Users\aluno\Documents\raphael\a\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\linux-arm64\lib\tzmappings
+C:\Users\aluno\Documents\raphael\a\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\linux-arm64\LICENSE.md
+C:\Users\aluno\Documents\raphael\a\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\linux-arm64\README.md
+C:\Users\aluno\Documents\raphael\a\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\linux-arm64\THIRD_PARTY_README
+C:\Users\aluno\Documents\raphael\a\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\linux-arm64\TRADEMARK
+C:\Users\aluno\Documents\raphael\a\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\osx-x64\bin\ikvm.properties
+C:\Users\aluno\Documents\raphael\a\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\osx-x64\lib\calendars.properties
+C:\Users\aluno\Documents\raphael\a\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\osx-x64\lib\cmm\CIEXYZ.pf
+C:\Users\aluno\Documents\raphael\a\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\osx-x64\lib\cmm\GRAY.pf
+C:\Users\aluno\Documents\raphael\a\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\osx-x64\lib\cmm\LINEAR_RGB.pf
+C:\Users\aluno\Documents\raphael\a\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\osx-x64\lib\cmm\PYCC.pf
+C:\Users\aluno\Documents\raphael\a\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\osx-x64\lib\cmm\sRGB.pf
+C:\Users\aluno\Documents\raphael\a\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\osx-x64\lib\content-types.properties
+C:\Users\aluno\Documents\raphael\a\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\osx-x64\lib\currency.data
+C:\Users\aluno\Documents\raphael\a\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\osx-x64\lib\flavormap.properties
+C:\Users\aluno\Documents\raphael\a\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\osx-x64\lib\hijrah-config-umalqura.properties
+C:\Users\aluno\Documents\raphael\a\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\osx-x64\lib\logging.properties
+C:\Users\aluno\Documents\raphael\a\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\osx-x64\lib\management\jmxremote.access
+C:\Users\aluno\Documents\raphael\a\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\osx-x64\lib\management\jmxremote.password.template
+C:\Users\aluno\Documents\raphael\a\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\osx-x64\lib\management\management.properties
+C:\Users\aluno\Documents\raphael\a\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\osx-x64\lib\management\snmp.acl.template
+C:\Users\aluno\Documents\raphael\a\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\osx-x64\lib\net.properties
+C:\Users\aluno\Documents\raphael\a\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\osx-x64\lib\plugin.properties
+C:\Users\aluno\Documents\raphael\a\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\osx-x64\lib\psfontj2d.properties
+C:\Users\aluno\Documents\raphael\a\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\osx-x64\lib\security\blacklisted.certs
+C:\Users\aluno\Documents\raphael\a\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\osx-x64\lib\security\java.policy
+C:\Users\aluno\Documents\raphael\a\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\osx-x64\lib\security\java.security
+C:\Users\aluno\Documents\raphael\a\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\osx-x64\lib\security\local_policy.jar
+C:\Users\aluno\Documents\raphael\a\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\osx-x64\lib\security\US_export_policy.jar
+C:\Users\aluno\Documents\raphael\a\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\osx-x64\lib\sound.properties
+C:\Users\aluno\Documents\raphael\a\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\osx-x64\lib\tzdb.dat
+C:\Users\aluno\Documents\raphael\a\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\osx-x64\lib\tzmappings
+C:\Users\aluno\Documents\raphael\a\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\osx-x64\LICENSE.md
+C:\Users\aluno\Documents\raphael\a\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\osx-x64\README.md
+C:\Users\aluno\Documents\raphael\a\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\osx-x64\THIRD_PARTY_README
+C:\Users\aluno\Documents\raphael\a\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\osx-x64\TRADEMARK
+C:\Users\aluno\Documents\raphael\a\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm.properties
+C:\Users\aluno\Documents\raphael\a\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\IKVM.ByteCode.dll
+C:\Users\aluno\Documents\raphael\a\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\IKVM.Java.dll
+C:\Users\aluno\Documents\raphael\a\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\IKVM.Runtime.dll
+C:\Users\aluno\Documents\raphael\a\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\aluno\Documents\raphael\a\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\aluno\Documents\raphael\a\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\Mono.Posix.dll
+C:\Users\aluno\Documents\raphael\a\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\Mono.Unix.dll
+C:\Users\aluno\Documents\raphael\a\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\System.Data.Odbc.dll
+C:\Users\aluno\Documents\raphael\a\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\System.Drawing.Common.dll
+C:\Users\aluno\Documents\raphael\a\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\System.Formats.Asn1.dll
+C:\Users\aluno\Documents\raphael\a\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\aluno\Documents\raphael\a\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\System.Security.AccessControl.dll
+C:\Users\aluno\Documents\raphael\a\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\aluno\Documents\raphael\a\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\System.Security.Permissions.dll
+C:\Users\aluno\Documents\raphael\a\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\System.Text.Encoding.CodePages.dll
+C:\Users\aluno\Documents\raphael\a\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\System.Text.Encodings.Web.dll
+C:\Users\aluno\Documents\raphael\a\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\System.Text.Json.dll
+C:\Users\aluno\Documents\raphael\a\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\System.Threading.AccessControl.dll
+C:\Users\aluno\Documents\raphael\a\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\System.Windows.Extensions.dll
+C:\Users\aluno\Documents\raphael\a\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\aluno\Documents\raphael\a\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\runtimes\android-arm\native\libMono.Unix.so
+C:\Users\aluno\Documents\raphael\a\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\runtimes\android-arm64\native\libMono.Unix.so
+C:\Users\aluno\Documents\raphael\a\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\runtimes\android-x64\native\libMono.Unix.so
+C:\Users\aluno\Documents\raphael\a\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\runtimes\android-x86\native\libMono.Unix.so
+C:\Users\aluno\Documents\raphael\a\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\runtimes\ios-arm\native\libMono.Unix.a
+C:\Users\aluno\Documents\raphael\a\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\runtimes\ios-arm64\native\libMono.Unix.a
+C:\Users\aluno\Documents\raphael\a\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\runtimes\ios-armv7s\native\libMono.Unix.a
+C:\Users\aluno\Documents\raphael\a\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\runtimes\iossimulator-arm64\native\libMono.Unix.a
+C:\Users\aluno\Documents\raphael\a\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\runtimes\iossimulator-x64\native\libMono.Unix.a
+C:\Users\aluno\Documents\raphael\a\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\runtimes\linux-arm\native\libMono.Unix.so
+C:\Users\aluno\Documents\raphael\a\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\runtimes\linux-arm64\native\libMono.Unix.so
+C:\Users\aluno\Documents\raphael\a\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\runtimes\linux-x64\native\libMono.Unix.so
+C:\Users\aluno\Documents\raphael\a\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\runtimes\maccatalyst-arm64\native\libMono.Unix.a
+C:\Users\aluno\Documents\raphael\a\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\runtimes\maccatalyst-x64\native\libMono.Unix.a
+C:\Users\aluno\Documents\raphael\a\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\runtimes\osx-arm64\native\libMono.Unix.dylib
+C:\Users\aluno\Documents\raphael\a\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\runtimes\osx-x64\native\libMono.Unix.dylib
+C:\Users\aluno\Documents\raphael\a\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\runtimes\tvos-arm64\native\libMono.Unix.a
+C:\Users\aluno\Documents\raphael\a\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\runtimes\tvossimulator-x64\native\libMono.Unix.a
+C:\Users\aluno\Documents\raphael\a\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\runtimes\freebsd\lib\netcoreapp3.1\System.Data.Odbc.dll
+C:\Users\aluno\Documents\raphael\a\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\runtimes\linux\lib\netcoreapp3.1\System.Data.Odbc.dll
+C:\Users\aluno\Documents\raphael\a\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\runtimes\osx\lib\netcoreapp3.1\System.Data.Odbc.dll
+C:\Users\aluno\Documents\raphael\a\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\System.Data.Odbc.dll
+C:\Users\aluno\Documents\raphael\a\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\aluno\Documents\raphael\a\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\aluno\Documents\raphael\a\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.AccessControl.dll
+C:\Users\aluno\Documents\raphael\a\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\System.Security.Cryptography.Pkcs.dll
+C:\Users\aluno\Documents\raphael\a\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\System.Text.Encoding.CodePages.dll
+C:\Users\aluno\Documents\raphael\a\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Threading.AccessControl.dll
+C:\Users\aluno\Documents\raphael\a\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\rapha\Documents\essePraEntrega\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\win7-x64\bin\ikvm.properties
+C:\Users\rapha\Documents\essePraEntrega\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\win7-x64\lib\calendars.properties
+C:\Users\rapha\Documents\essePraEntrega\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\win7-x64\lib\cmm\CIEXYZ.pf
+C:\Users\rapha\Documents\essePraEntrega\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\win7-x64\lib\cmm\GRAY.pf
+C:\Users\rapha\Documents\essePraEntrega\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\win7-x64\lib\cmm\LINEAR_RGB.pf
+C:\Users\rapha\Documents\essePraEntrega\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\win7-x64\lib\cmm\PYCC.pf
+C:\Users\rapha\Documents\essePraEntrega\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\win7-x64\lib\cmm\sRGB.pf
+C:\Users\rapha\Documents\essePraEntrega\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\win7-x64\lib\content-types.properties
+C:\Users\rapha\Documents\essePraEntrega\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\win7-x64\lib\currency.data
+C:\Users\rapha\Documents\essePraEntrega\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\win7-x64\lib\flavormap.properties
+C:\Users\rapha\Documents\essePraEntrega\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\win7-x64\lib\hijrah-config-umalqura.properties
+C:\Users\rapha\Documents\essePraEntrega\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\win7-x64\lib\logging.properties
+C:\Users\rapha\Documents\essePraEntrega\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\win7-x64\lib\management\jmxremote.access
+C:\Users\rapha\Documents\essePraEntrega\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\win7-x64\lib\management\jmxremote.password.template
+C:\Users\rapha\Documents\essePraEntrega\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\win7-x64\lib\management\management.properties
+C:\Users\rapha\Documents\essePraEntrega\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\win7-x64\lib\management\snmp.acl.template
+C:\Users\rapha\Documents\essePraEntrega\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\win7-x64\lib\net.properties
+C:\Users\rapha\Documents\essePraEntrega\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\win7-x64\lib\plugin.properties
+C:\Users\rapha\Documents\essePraEntrega\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\win7-x64\lib\psfontj2d.properties
+C:\Users\rapha\Documents\essePraEntrega\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\win7-x64\lib\security\blacklisted.certs
+C:\Users\rapha\Documents\essePraEntrega\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\win7-x64\lib\security\java.policy
+C:\Users\rapha\Documents\essePraEntrega\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\win7-x64\lib\security\java.security
+C:\Users\rapha\Documents\essePraEntrega\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\win7-x64\lib\security\local_policy.jar
+C:\Users\rapha\Documents\essePraEntrega\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\win7-x64\lib\security\US_export_policy.jar
+C:\Users\rapha\Documents\essePraEntrega\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\win7-x64\lib\sound.properties
+C:\Users\rapha\Documents\essePraEntrega\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\win7-x64\lib\tzdb.dat
+C:\Users\rapha\Documents\essePraEntrega\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\win7-x64\lib\tzmappings
+C:\Users\rapha\Documents\essePraEntrega\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\win7-x64\LICENSE.md
+C:\Users\rapha\Documents\essePraEntrega\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\win7-x64\README.md
+C:\Users\rapha\Documents\essePraEntrega\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\win7-x64\THIRD_PARTY_README
+C:\Users\rapha\Documents\essePraEntrega\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\win7-x64\TRADEMARK
+C:\Users\rapha\Documents\essePraEntrega\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\win7-x86\bin\ikvm.properties
+C:\Users\rapha\Documents\essePraEntrega\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\win7-x86\lib\calendars.properties
+C:\Users\rapha\Documents\essePraEntrega\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\win7-x86\lib\cmm\CIEXYZ.pf
+C:\Users\rapha\Documents\essePraEntrega\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\win7-x86\lib\cmm\GRAY.pf
+C:\Users\rapha\Documents\essePraEntrega\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\win7-x86\lib\cmm\LINEAR_RGB.pf
+C:\Users\rapha\Documents\essePraEntrega\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\win7-x86\lib\cmm\PYCC.pf
+C:\Users\rapha\Documents\essePraEntrega\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\win7-x86\lib\cmm\sRGB.pf
+C:\Users\rapha\Documents\essePraEntrega\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\win7-x86\lib\content-types.properties
+C:\Users\rapha\Documents\essePraEntrega\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\win7-x86\lib\currency.data
+C:\Users\rapha\Documents\essePraEntrega\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\win7-x86\lib\flavormap.properties
+C:\Users\rapha\Documents\essePraEntrega\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\win7-x86\lib\hijrah-config-umalqura.properties
+C:\Users\rapha\Documents\essePraEntrega\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\win7-x86\lib\logging.properties
+C:\Users\rapha\Documents\essePraEntrega\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\win7-x86\lib\management\jmxremote.access
+C:\Users\rapha\Documents\essePraEntrega\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\win7-x86\lib\management\jmxremote.password.template
+C:\Users\rapha\Documents\essePraEntrega\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\win7-x86\lib\management\management.properties
+C:\Users\rapha\Documents\essePraEntrega\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\win7-x86\lib\management\snmp.acl.template
+C:\Users\rapha\Documents\essePraEntrega\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\win7-x86\lib\net.properties
+C:\Users\rapha\Documents\essePraEntrega\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\win7-x86\lib\plugin.properties
+C:\Users\rapha\Documents\essePraEntrega\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\win7-x86\lib\psfontj2d.properties
+C:\Users\rapha\Documents\essePraEntrega\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\win7-x86\lib\security\blacklisted.certs
+C:\Users\rapha\Documents\essePraEntrega\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\win7-x86\lib\security\java.policy
+C:\Users\rapha\Documents\essePraEntrega\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\win7-x86\lib\security\java.security
+C:\Users\rapha\Documents\essePraEntrega\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\win7-x86\lib\security\local_policy.jar
+C:\Users\rapha\Documents\essePraEntrega\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\win7-x86\lib\security\US_export_policy.jar
+C:\Users\rapha\Documents\essePraEntrega\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\win7-x86\lib\sound.properties
+C:\Users\rapha\Documents\essePraEntrega\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\win7-x86\lib\tzdb.dat
+C:\Users\rapha\Documents\essePraEntrega\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\win7-x86\lib\tzmappings
+C:\Users\rapha\Documents\essePraEntrega\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\win7-x86\LICENSE.md
+C:\Users\rapha\Documents\essePraEntrega\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\win7-x86\README.md
+C:\Users\rapha\Documents\essePraEntrega\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\win7-x86\THIRD_PARTY_README
+C:\Users\rapha\Documents\essePraEntrega\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\win7-x86\TRADEMARK
+C:\Users\rapha\Documents\essePraEntrega\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\win81-arm\bin\ikvm.properties
+C:\Users\rapha\Documents\essePraEntrega\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\win81-arm\lib\calendars.properties
+C:\Users\rapha\Documents\essePraEntrega\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\win81-arm\lib\cmm\CIEXYZ.pf
+C:\Users\rapha\Documents\essePraEntrega\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\win81-arm\lib\cmm\GRAY.pf
+C:\Users\rapha\Documents\essePraEntrega\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\win81-arm\lib\cmm\LINEAR_RGB.pf
+C:\Users\rapha\Documents\essePraEntrega\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\win81-arm\lib\cmm\PYCC.pf
+C:\Users\rapha\Documents\essePraEntrega\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\win81-arm\lib\cmm\sRGB.pf
+C:\Users\rapha\Documents\essePraEntrega\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\win81-arm\lib\content-types.properties
+C:\Users\rapha\Documents\essePraEntrega\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\win81-arm\lib\currency.data
+C:\Users\rapha\Documents\essePraEntrega\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\win81-arm\lib\flavormap.properties
+C:\Users\rapha\Documents\essePraEntrega\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\win81-arm\lib\hijrah-config-umalqura.properties
+C:\Users\rapha\Documents\essePraEntrega\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\win81-arm\lib\logging.properties
+C:\Users\rapha\Documents\essePraEntrega\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\win81-arm\lib\management\jmxremote.access
+C:\Users\rapha\Documents\essePraEntrega\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\win81-arm\lib\management\jmxremote.password.template
+C:\Users\rapha\Documents\essePraEntrega\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\win81-arm\lib\management\management.properties
+C:\Users\rapha\Documents\essePraEntrega\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\win81-arm\lib\management\snmp.acl.template
+C:\Users\rapha\Documents\essePraEntrega\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\win81-arm\lib\net.properties
+C:\Users\rapha\Documents\essePraEntrega\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\win81-arm\lib\plugin.properties
+C:\Users\rapha\Documents\essePraEntrega\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\win81-arm\lib\psfontj2d.properties
+C:\Users\rapha\Documents\essePraEntrega\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\win81-arm\lib\security\blacklisted.certs
+C:\Users\rapha\Documents\essePraEntrega\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\win81-arm\lib\security\java.policy
+C:\Users\rapha\Documents\essePraEntrega\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\win81-arm\lib\security\java.security
+C:\Users\rapha\Documents\essePraEntrega\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\win81-arm\lib\security\local_policy.jar
+C:\Users\rapha\Documents\essePraEntrega\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\win81-arm\lib\security\US_export_policy.jar
+C:\Users\rapha\Documents\essePraEntrega\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\win81-arm\lib\sound.properties
+C:\Users\rapha\Documents\essePraEntrega\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\win81-arm\lib\tzdb.dat
+C:\Users\rapha\Documents\essePraEntrega\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\win81-arm\lib\tzmappings
+C:\Users\rapha\Documents\essePraEntrega\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\win81-arm\LICENSE.md
+C:\Users\rapha\Documents\essePraEntrega\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\win81-arm\README.md
+C:\Users\rapha\Documents\essePraEntrega\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\win81-arm\THIRD_PARTY_README
+C:\Users\rapha\Documents\essePraEntrega\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\win81-arm\TRADEMARK
+C:\Users\rapha\Documents\essePraEntrega\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\win10-arm64\bin\ikvm.properties
+C:\Users\rapha\Documents\essePraEntrega\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\win10-arm64\lib\calendars.properties
+C:\Users\rapha\Documents\essePraEntrega\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\win10-arm64\lib\cmm\CIEXYZ.pf
+C:\Users\rapha\Documents\essePraEntrega\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\win10-arm64\lib\cmm\GRAY.pf
+C:\Users\rapha\Documents\essePraEntrega\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\win10-arm64\lib\cmm\LINEAR_RGB.pf
+C:\Users\rapha\Documents\essePraEntrega\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\win10-arm64\lib\cmm\PYCC.pf
+C:\Users\rapha\Documents\essePraEntrega\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\win10-arm64\lib\cmm\sRGB.pf
+C:\Users\rapha\Documents\essePraEntrega\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\win10-arm64\lib\content-types.properties
+C:\Users\rapha\Documents\essePraEntrega\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\win10-arm64\lib\currency.data
+C:\Users\rapha\Documents\essePraEntrega\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\win10-arm64\lib\flavormap.properties
+C:\Users\rapha\Documents\essePraEntrega\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\win10-arm64\lib\hijrah-config-umalqura.properties
+C:\Users\rapha\Documents\essePraEntrega\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\win10-arm64\lib\logging.properties
+C:\Users\rapha\Documents\essePraEntrega\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\win10-arm64\lib\management\jmxremote.access
+C:\Users\rapha\Documents\essePraEntrega\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\win10-arm64\lib\management\jmxremote.password.template
+C:\Users\rapha\Documents\essePraEntrega\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\win10-arm64\lib\management\management.properties
+C:\Users\rapha\Documents\essePraEntrega\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\win10-arm64\lib\management\snmp.acl.template
+C:\Users\rapha\Documents\essePraEntrega\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\win10-arm64\lib\net.properties
+C:\Users\rapha\Documents\essePraEntrega\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\win10-arm64\lib\plugin.properties
+C:\Users\rapha\Documents\essePraEntrega\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\win10-arm64\lib\psfontj2d.properties
+C:\Users\rapha\Documents\essePraEntrega\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\win10-arm64\lib\security\blacklisted.certs
+C:\Users\rapha\Documents\essePraEntrega\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\win10-arm64\lib\security\java.policy
+C:\Users\rapha\Documents\essePraEntrega\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\win10-arm64\lib\security\java.security
+C:\Users\rapha\Documents\essePraEntrega\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\win10-arm64\lib\security\local_policy.jar
+C:\Users\rapha\Documents\essePraEntrega\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\win10-arm64\lib\security\US_export_policy.jar
+C:\Users\rapha\Documents\essePraEntrega\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\win10-arm64\lib\sound.properties
+C:\Users\rapha\Documents\essePraEntrega\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\win10-arm64\lib\tzdb.dat
+C:\Users\rapha\Documents\essePraEntrega\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\win10-arm64\lib\tzmappings
+C:\Users\rapha\Documents\essePraEntrega\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\win10-arm64\LICENSE.md
+C:\Users\rapha\Documents\essePraEntrega\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\win10-arm64\README.md
+C:\Users\rapha\Documents\essePraEntrega\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\win10-arm64\THIRD_PARTY_README
+C:\Users\rapha\Documents\essePraEntrega\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\win10-arm64\TRADEMARK
+C:\Users\rapha\Documents\essePraEntrega\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\linux-x64\bin\ikvm.properties
+C:\Users\rapha\Documents\essePraEntrega\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\linux-x64\lib\calendars.properties
+C:\Users\rapha\Documents\essePraEntrega\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\linux-x64\lib\cmm\CIEXYZ.pf
+C:\Users\rapha\Documents\essePraEntrega\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\linux-x64\lib\cmm\GRAY.pf
+C:\Users\rapha\Documents\essePraEntrega\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\linux-x64\lib\cmm\LINEAR_RGB.pf
+C:\Users\rapha\Documents\essePraEntrega\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\linux-x64\lib\cmm\PYCC.pf
+C:\Users\rapha\Documents\essePraEntrega\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\linux-x64\lib\cmm\sRGB.pf
+C:\Users\rapha\Documents\essePraEntrega\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\linux-x64\lib\content-types.properties
+C:\Users\rapha\Documents\essePraEntrega\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\linux-x64\lib\currency.data
+C:\Users\rapha\Documents\essePraEntrega\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\linux-x64\lib\flavormap.properties
+C:\Users\rapha\Documents\essePraEntrega\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\linux-x64\lib\hijrah-config-umalqura.properties
+C:\Users\rapha\Documents\essePraEntrega\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\linux-x64\lib\logging.properties
+C:\Users\rapha\Documents\essePraEntrega\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\linux-x64\lib\management\jmxremote.access
+C:\Users\rapha\Documents\essePraEntrega\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\linux-x64\lib\management\jmxremote.password.template
+C:\Users\rapha\Documents\essePraEntrega\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\linux-x64\lib\management\management.properties
+C:\Users\rapha\Documents\essePraEntrega\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\linux-x64\lib\management\snmp.acl.template
+C:\Users\rapha\Documents\essePraEntrega\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\linux-x64\lib\net.properties
+C:\Users\rapha\Documents\essePraEntrega\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\linux-x64\lib\plugin.properties
+C:\Users\rapha\Documents\essePraEntrega\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\linux-x64\lib\psfontj2d.properties
+C:\Users\rapha\Documents\essePraEntrega\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\linux-x64\lib\security\blacklisted.certs
+C:\Users\rapha\Documents\essePraEntrega\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\linux-x64\lib\security\java.policy
+C:\Users\rapha\Documents\essePraEntrega\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\linux-x64\lib\security\java.security
+C:\Users\rapha\Documents\essePraEntrega\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\linux-x64\lib\security\local_policy.jar
+C:\Users\rapha\Documents\essePraEntrega\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\linux-x64\lib\security\US_export_policy.jar
+C:\Users\rapha\Documents\essePraEntrega\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\linux-x64\lib\sound.properties
+C:\Users\rapha\Documents\essePraEntrega\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\linux-x64\lib\tzdb.dat
+C:\Users\rapha\Documents\essePraEntrega\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\linux-x64\lib\tzmappings
+C:\Users\rapha\Documents\essePraEntrega\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\linux-x64\LICENSE.md
+C:\Users\rapha\Documents\essePraEntrega\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\linux-x64\README.md
+C:\Users\rapha\Documents\essePraEntrega\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\linux-x64\THIRD_PARTY_README
+C:\Users\rapha\Documents\essePraEntrega\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\linux-x64\TRADEMARK
+C:\Users\rapha\Documents\essePraEntrega\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\linux-arm\bin\ikvm.properties
+C:\Users\rapha\Documents\essePraEntrega\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\linux-arm\lib\calendars.properties
+C:\Users\rapha\Documents\essePraEntrega\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\linux-arm\lib\cmm\CIEXYZ.pf
+C:\Users\rapha\Documents\essePraEntrega\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\linux-arm\lib\cmm\GRAY.pf
+C:\Users\rapha\Documents\essePraEntrega\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\linux-arm\lib\cmm\LINEAR_RGB.pf
+C:\Users\rapha\Documents\essePraEntrega\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\linux-arm\lib\cmm\PYCC.pf
+C:\Users\rapha\Documents\essePraEntrega\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\linux-arm\lib\cmm\sRGB.pf
+C:\Users\rapha\Documents\essePraEntrega\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\linux-arm\lib\content-types.properties
+C:\Users\rapha\Documents\essePraEntrega\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\linux-arm\lib\currency.data
+C:\Users\rapha\Documents\essePraEntrega\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\linux-arm\lib\flavormap.properties
+C:\Users\rapha\Documents\essePraEntrega\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\linux-arm\lib\hijrah-config-umalqura.properties
+C:\Users\rapha\Documents\essePraEntrega\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\linux-arm\lib\logging.properties
+C:\Users\rapha\Documents\essePraEntrega\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\linux-arm\lib\management\jmxremote.access
+C:\Users\rapha\Documents\essePraEntrega\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\linux-arm\lib\management\jmxremote.password.template
+C:\Users\rapha\Documents\essePraEntrega\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\linux-arm\lib\management\management.properties
+C:\Users\rapha\Documents\essePraEntrega\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\linux-arm\lib\management\snmp.acl.template
+C:\Users\rapha\Documents\essePraEntrega\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\linux-arm\lib\net.properties
+C:\Users\rapha\Documents\essePraEntrega\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\linux-arm\lib\plugin.properties
+C:\Users\rapha\Documents\essePraEntrega\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\linux-arm\lib\psfontj2d.properties
+C:\Users\rapha\Documents\essePraEntrega\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\linux-arm\lib\security\blacklisted.certs
+C:\Users\rapha\Documents\essePraEntrega\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\linux-arm\lib\security\java.policy
+C:\Users\rapha\Documents\essePraEntrega\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\linux-arm\lib\security\java.security
+C:\Users\rapha\Documents\essePraEntrega\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\linux-arm\lib\security\local_policy.jar
+C:\Users\rapha\Documents\essePraEntrega\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\linux-arm\lib\security\US_export_policy.jar
+C:\Users\rapha\Documents\essePraEntrega\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\linux-arm\lib\sound.properties
+C:\Users\rapha\Documents\essePraEntrega\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\linux-arm\lib\tzdb.dat
+C:\Users\rapha\Documents\essePraEntrega\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\linux-arm\lib\tzmappings
+C:\Users\rapha\Documents\essePraEntrega\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\linux-arm\LICENSE.md
+C:\Users\rapha\Documents\essePraEntrega\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\linux-arm\README.md
+C:\Users\rapha\Documents\essePraEntrega\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\linux-arm\THIRD_PARTY_README
+C:\Users\rapha\Documents\essePraEntrega\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\linux-arm\TRADEMARK
+C:\Users\rapha\Documents\essePraEntrega\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\linux-arm64\bin\ikvm.properties
+C:\Users\rapha\Documents\essePraEntrega\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\linux-arm64\lib\calendars.properties
+C:\Users\rapha\Documents\essePraEntrega\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\linux-arm64\lib\cmm\CIEXYZ.pf
+C:\Users\rapha\Documents\essePraEntrega\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\linux-arm64\lib\cmm\GRAY.pf
+C:\Users\rapha\Documents\essePraEntrega\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\linux-arm64\lib\cmm\LINEAR_RGB.pf
+C:\Users\rapha\Documents\essePraEntrega\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\linux-arm64\lib\cmm\PYCC.pf
+C:\Users\rapha\Documents\essePraEntrega\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\linux-arm64\lib\cmm\sRGB.pf
+C:\Users\rapha\Documents\essePraEntrega\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\linux-arm64\lib\content-types.properties
+C:\Users\rapha\Documents\essePraEntrega\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\linux-arm64\lib\currency.data
+C:\Users\rapha\Documents\essePraEntrega\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\linux-arm64\lib\flavormap.properties
+C:\Users\rapha\Documents\essePraEntrega\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\linux-arm64\lib\hijrah-config-umalqura.properties
+C:\Users\rapha\Documents\essePraEntrega\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\linux-arm64\lib\logging.properties
+C:\Users\rapha\Documents\essePraEntrega\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\linux-arm64\lib\management\jmxremote.access
+C:\Users\rapha\Documents\essePraEntrega\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\linux-arm64\lib\management\jmxremote.password.template
+C:\Users\rapha\Documents\essePraEntrega\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\linux-arm64\lib\management\management.properties
+C:\Users\rapha\Documents\essePraEntrega\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\linux-arm64\lib\management\snmp.acl.template
+C:\Users\rapha\Documents\essePraEntrega\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\linux-arm64\lib\net.properties
+C:\Users\rapha\Documents\essePraEntrega\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\linux-arm64\lib\plugin.properties
+C:\Users\rapha\Documents\essePraEntrega\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\linux-arm64\lib\psfontj2d.properties
+C:\Users\rapha\Documents\essePraEntrega\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\linux-arm64\lib\security\blacklisted.certs
+C:\Users\rapha\Documents\essePraEntrega\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\linux-arm64\lib\security\java.policy
+C:\Users\rapha\Documents\essePraEntrega\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\linux-arm64\lib\security\java.security
+C:\Users\rapha\Documents\essePraEntrega\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\linux-arm64\lib\security\local_policy.jar
+C:\Users\rapha\Documents\essePraEntrega\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\linux-arm64\lib\security\US_export_policy.jar
+C:\Users\rapha\Documents\essePraEntrega\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\linux-arm64\lib\sound.properties
+C:\Users\rapha\Documents\essePraEntrega\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\linux-arm64\lib\tzdb.dat
+C:\Users\rapha\Documents\essePraEntrega\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\linux-arm64\lib\tzmappings
+C:\Users\rapha\Documents\essePraEntrega\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\linux-arm64\LICENSE.md
+C:\Users\rapha\Documents\essePraEntrega\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\linux-arm64\README.md
+C:\Users\rapha\Documents\essePraEntrega\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\linux-arm64\THIRD_PARTY_README
+C:\Users\rapha\Documents\essePraEntrega\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\linux-arm64\TRADEMARK
+C:\Users\rapha\Documents\essePraEntrega\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\osx-x64\bin\ikvm.properties
+C:\Users\rapha\Documents\essePraEntrega\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\osx-x64\lib\calendars.properties
+C:\Users\rapha\Documents\essePraEntrega\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\osx-x64\lib\cmm\CIEXYZ.pf
+C:\Users\rapha\Documents\essePraEntrega\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\osx-x64\lib\cmm\GRAY.pf
+C:\Users\rapha\Documents\essePraEntrega\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\osx-x64\lib\cmm\LINEAR_RGB.pf
+C:\Users\rapha\Documents\essePraEntrega\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\osx-x64\lib\cmm\PYCC.pf
+C:\Users\rapha\Documents\essePraEntrega\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\osx-x64\lib\cmm\sRGB.pf
+C:\Users\rapha\Documents\essePraEntrega\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\osx-x64\lib\content-types.properties
+C:\Users\rapha\Documents\essePraEntrega\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\osx-x64\lib\currency.data
+C:\Users\rapha\Documents\essePraEntrega\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\osx-x64\lib\flavormap.properties
+C:\Users\rapha\Documents\essePraEntrega\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\osx-x64\lib\hijrah-config-umalqura.properties
+C:\Users\rapha\Documents\essePraEntrega\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\osx-x64\lib\logging.properties
+C:\Users\rapha\Documents\essePraEntrega\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\osx-x64\lib\management\jmxremote.access
+C:\Users\rapha\Documents\essePraEntrega\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\osx-x64\lib\management\jmxremote.password.template
+C:\Users\rapha\Documents\essePraEntrega\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\osx-x64\lib\management\management.properties
+C:\Users\rapha\Documents\essePraEntrega\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\osx-x64\lib\management\snmp.acl.template
+C:\Users\rapha\Documents\essePraEntrega\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\osx-x64\lib\net.properties
+C:\Users\rapha\Documents\essePraEntrega\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\osx-x64\lib\plugin.properties
+C:\Users\rapha\Documents\essePraEntrega\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\osx-x64\lib\psfontj2d.properties
+C:\Users\rapha\Documents\essePraEntrega\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\osx-x64\lib\security\blacklisted.certs
+C:\Users\rapha\Documents\essePraEntrega\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\osx-x64\lib\security\java.policy
+C:\Users\rapha\Documents\essePraEntrega\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\osx-x64\lib\security\java.security
+C:\Users\rapha\Documents\essePraEntrega\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\osx-x64\lib\security\local_policy.jar
+C:\Users\rapha\Documents\essePraEntrega\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\osx-x64\lib\security\US_export_policy.jar
+C:\Users\rapha\Documents\essePraEntrega\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\osx-x64\lib\sound.properties
+C:\Users\rapha\Documents\essePraEntrega\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\osx-x64\lib\tzdb.dat
+C:\Users\rapha\Documents\essePraEntrega\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\osx-x64\lib\tzmappings
+C:\Users\rapha\Documents\essePraEntrega\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\osx-x64\LICENSE.md
+C:\Users\rapha\Documents\essePraEntrega\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\osx-x64\README.md
+C:\Users\rapha\Documents\essePraEntrega\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\osx-x64\THIRD_PARTY_README
+C:\Users\rapha\Documents\essePraEntrega\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\osx-x64\TRADEMARK
+C:\Users\rapha\Documents\essePraEntrega\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm.properties
+C:\Users\rapha\Documents\essePraEntrega\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\IKVM.ByteCode.dll
+C:\Users\rapha\Documents\essePraEntrega\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\IKVM.Java.dll
+C:\Users\rapha\Documents\essePraEntrega\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\IKVM.Runtime.dll
+C:\Users\rapha\Documents\essePraEntrega\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\rapha\Documents\essePraEntrega\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\rapha\Documents\essePraEntrega\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\Mono.Posix.dll
+C:\Users\rapha\Documents\essePraEntrega\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\Mono.Unix.dll
+C:\Users\rapha\Documents\essePraEntrega\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\System.Data.Odbc.dll
+C:\Users\rapha\Documents\essePraEntrega\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\System.Drawing.Common.dll
+C:\Users\rapha\Documents\essePraEntrega\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\System.Formats.Asn1.dll
+C:\Users\rapha\Documents\essePraEntrega\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\rapha\Documents\essePraEntrega\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\System.Security.AccessControl.dll
+C:\Users\rapha\Documents\essePraEntrega\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\rapha\Documents\essePraEntrega\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\System.Security.Permissions.dll
+C:\Users\rapha\Documents\essePraEntrega\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\System.Text.Encoding.CodePages.dll
+C:\Users\rapha\Documents\essePraEntrega\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\System.Text.Encodings.Web.dll
+C:\Users\rapha\Documents\essePraEntrega\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\System.Text.Json.dll
+C:\Users\rapha\Documents\essePraEntrega\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\System.Threading.AccessControl.dll
+C:\Users\rapha\Documents\essePraEntrega\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\System.Windows.Extensions.dll
+C:\Users\rapha\Documents\essePraEntrega\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\rapha\Documents\essePraEntrega\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\runtimes\android-arm\native\libMono.Unix.so
+C:\Users\rapha\Documents\essePraEntrega\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\runtimes\android-arm64\native\libMono.Unix.so
+C:\Users\rapha\Documents\essePraEntrega\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\runtimes\android-x64\native\libMono.Unix.so
+C:\Users\rapha\Documents\essePraEntrega\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\runtimes\android-x86\native\libMono.Unix.so
+C:\Users\rapha\Documents\essePraEntrega\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\runtimes\ios-arm\native\libMono.Unix.a
+C:\Users\rapha\Documents\essePraEntrega\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\runtimes\ios-arm64\native\libMono.Unix.a
+C:\Users\rapha\Documents\essePraEntrega\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\runtimes\ios-armv7s\native\libMono.Unix.a
+C:\Users\rapha\Documents\essePraEntrega\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\runtimes\iossimulator-arm64\native\libMono.Unix.a
+C:\Users\rapha\Documents\essePraEntrega\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\runtimes\iossimulator-x64\native\libMono.Unix.a
+C:\Users\rapha\Documents\essePraEntrega\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\runtimes\linux-arm\native\libMono.Unix.so
+C:\Users\rapha\Documents\essePraEntrega\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\runtimes\linux-arm64\native\libMono.Unix.so
+C:\Users\rapha\Documents\essePraEntrega\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\runtimes\linux-x64\native\libMono.Unix.so
+C:\Users\rapha\Documents\essePraEntrega\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\runtimes\maccatalyst-arm64\native\libMono.Unix.a
+C:\Users\rapha\Documents\essePraEntrega\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\runtimes\maccatalyst-x64\native\libMono.Unix.a
+C:\Users\rapha\Documents\essePraEntrega\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\runtimes\osx-arm64\native\libMono.Unix.dylib
+C:\Users\rapha\Documents\essePraEntrega\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\runtimes\osx-x64\native\libMono.Unix.dylib
+C:\Users\rapha\Documents\essePraEntrega\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\runtimes\tvos-arm64\native\libMono.Unix.a
+C:\Users\rapha\Documents\essePraEntrega\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\runtimes\tvossimulator-x64\native\libMono.Unix.a
+C:\Users\rapha\Documents\essePraEntrega\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\runtimes\freebsd\lib\netcoreapp3.1\System.Data.Odbc.dll
+C:\Users\rapha\Documents\essePraEntrega\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\runtimes\linux\lib\netcoreapp3.1\System.Data.Odbc.dll
+C:\Users\rapha\Documents\essePraEntrega\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\runtimes\osx\lib\netcoreapp3.1\System.Data.Odbc.dll
+C:\Users\rapha\Documents\essePraEntrega\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\System.Data.Odbc.dll
+C:\Users\rapha\Documents\essePraEntrega\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\rapha\Documents\essePraEntrega\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\rapha\Documents\essePraEntrega\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.AccessControl.dll
+C:\Users\rapha\Documents\essePraEntrega\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\System.Security.Cryptography.Pkcs.dll
+C:\Users\rapha\Documents\essePraEntrega\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\System.Text.Encoding.CodePages.dll
+C:\Users\rapha\Documents\essePraEntrega\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Threading.AccessControl.dll
+C:\Users\rapha\Documents\essePraEntrega\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\rapha\Documents\essePraEntrega\TesteLuanaTCC3\TesteLuanaTCC3\obj\Debug\net5.0\Razor\Views\Evento\paginaEvento.cshtml.g.cs
+C:\Users\rapha\Documents\finaldofinal\Nova pasta\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\rapha\Documents\finaldofinal\Nova pasta\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\appsettings.json
+C:\Users\rapha\Documents\finaldofinal\Nova pasta\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\TesteLuanaTCC3.StaticWebAssets.xml
+C:\Users\rapha\Documents\finaldofinal\Nova pasta\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\win7-x64\bin\ikvm.properties
+C:\Users\rapha\Documents\finaldofinal\Nova pasta\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\win7-x64\lib\calendars.properties
+C:\Users\rapha\Documents\finaldofinal\Nova pasta\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\win7-x64\lib\cmm\CIEXYZ.pf
+C:\Users\rapha\Documents\finaldofinal\Nova pasta\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\win7-x64\lib\cmm\GRAY.pf
+C:\Users\rapha\Documents\finaldofinal\Nova pasta\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\win7-x64\lib\cmm\LINEAR_RGB.pf
+C:\Users\rapha\Documents\finaldofinal\Nova pasta\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\win7-x64\lib\cmm\PYCC.pf
+C:\Users\rapha\Documents\finaldofinal\Nova pasta\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\win7-x64\lib\cmm\sRGB.pf
+C:\Users\rapha\Documents\finaldofinal\Nova pasta\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\win7-x64\lib\content-types.properties
+C:\Users\rapha\Documents\finaldofinal\Nova pasta\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\win7-x64\lib\currency.data
+C:\Users\rapha\Documents\finaldofinal\Nova pasta\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\win7-x64\lib\flavormap.properties
+C:\Users\rapha\Documents\finaldofinal\Nova pasta\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\win7-x64\lib\hijrah-config-umalqura.properties
+C:\Users\rapha\Documents\finaldofinal\Nova pasta\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\win7-x64\lib\logging.properties
+C:\Users\rapha\Documents\finaldofinal\Nova pasta\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\win7-x64\lib\management\jmxremote.access
+C:\Users\rapha\Documents\finaldofinal\Nova pasta\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\win7-x64\lib\management\jmxremote.password.template
+C:\Users\rapha\Documents\finaldofinal\Nova pasta\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\win7-x64\lib\management\management.properties
+C:\Users\rapha\Documents\finaldofinal\Nova pasta\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\win7-x64\lib\management\snmp.acl.template
+C:\Users\rapha\Documents\finaldofinal\Nova pasta\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\win7-x64\lib\net.properties
+C:\Users\rapha\Documents\finaldofinal\Nova pasta\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\win7-x64\lib\plugin.properties
+C:\Users\rapha\Documents\finaldofinal\Nova pasta\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\win7-x64\lib\psfontj2d.properties
+C:\Users\rapha\Documents\finaldofinal\Nova pasta\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\win7-x64\lib\security\blacklisted.certs
+C:\Users\rapha\Documents\finaldofinal\Nova pasta\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\win7-x64\lib\security\java.policy
+C:\Users\rapha\Documents\finaldofinal\Nova pasta\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\win7-x64\lib\security\java.security
+C:\Users\rapha\Documents\finaldofinal\Nova pasta\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\win7-x64\lib\security\local_policy.jar
+C:\Users\rapha\Documents\finaldofinal\Nova pasta\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\win7-x64\lib\security\US_export_policy.jar
+C:\Users\rapha\Documents\finaldofinal\Nova pasta\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\win7-x64\lib\sound.properties
+C:\Users\rapha\Documents\finaldofinal\Nova pasta\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\win7-x64\lib\tzdb.dat
+C:\Users\rapha\Documents\finaldofinal\Nova pasta\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\win7-x64\lib\tzmappings
+C:\Users\rapha\Documents\finaldofinal\Nova pasta\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\win7-x64\LICENSE.md
+C:\Users\rapha\Documents\finaldofinal\Nova pasta\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\win7-x64\README.md
+C:\Users\rapha\Documents\finaldofinal\Nova pasta\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\win7-x64\THIRD_PARTY_README
+C:\Users\rapha\Documents\finaldofinal\Nova pasta\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\win7-x64\TRADEMARK
+C:\Users\rapha\Documents\finaldofinal\Nova pasta\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\win7-x86\bin\ikvm.properties
+C:\Users\rapha\Documents\finaldofinal\Nova pasta\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\win7-x86\lib\calendars.properties
+C:\Users\rapha\Documents\finaldofinal\Nova pasta\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\win7-x86\lib\cmm\CIEXYZ.pf
+C:\Users\rapha\Documents\finaldofinal\Nova pasta\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\win7-x86\lib\cmm\GRAY.pf
+C:\Users\rapha\Documents\finaldofinal\Nova pasta\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\win7-x86\lib\cmm\LINEAR_RGB.pf
+C:\Users\rapha\Documents\finaldofinal\Nova pasta\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\win7-x86\lib\cmm\PYCC.pf
+C:\Users\rapha\Documents\finaldofinal\Nova pasta\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\win7-x86\lib\cmm\sRGB.pf
+C:\Users\rapha\Documents\finaldofinal\Nova pasta\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\win7-x86\lib\content-types.properties
+C:\Users\rapha\Documents\finaldofinal\Nova pasta\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\win7-x86\lib\currency.data
+C:\Users\rapha\Documents\finaldofinal\Nova pasta\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\win7-x86\lib\flavormap.properties
+C:\Users\rapha\Documents\finaldofinal\Nova pasta\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\win7-x86\lib\hijrah-config-umalqura.properties
+C:\Users\rapha\Documents\finaldofinal\Nova pasta\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\win7-x86\lib\logging.properties
+C:\Users\rapha\Documents\finaldofinal\Nova pasta\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\win7-x86\lib\management\jmxremote.access
+C:\Users\rapha\Documents\finaldofinal\Nova pasta\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\win7-x86\lib\management\jmxremote.password.template
+C:\Users\rapha\Documents\finaldofinal\Nova pasta\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\win7-x86\lib\management\management.properties
+C:\Users\rapha\Documents\finaldofinal\Nova pasta\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\win7-x86\lib\management\snmp.acl.template
+C:\Users\rapha\Documents\finaldofinal\Nova pasta\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\win7-x86\lib\net.properties
+C:\Users\rapha\Documents\finaldofinal\Nova pasta\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\win7-x86\lib\plugin.properties
+C:\Users\rapha\Documents\finaldofinal\Nova pasta\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\win7-x86\lib\psfontj2d.properties
+C:\Users\rapha\Documents\finaldofinal\Nova pasta\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\win7-x86\lib\security\blacklisted.certs
+C:\Users\rapha\Documents\finaldofinal\Nova pasta\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\win7-x86\lib\security\java.policy
+C:\Users\rapha\Documents\finaldofinal\Nova pasta\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\win7-x86\lib\security\java.security
+C:\Users\rapha\Documents\finaldofinal\Nova pasta\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\win7-x86\lib\security\local_policy.jar
+C:\Users\rapha\Documents\finaldofinal\Nova pasta\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\win7-x86\lib\security\US_export_policy.jar
+C:\Users\rapha\Documents\finaldofinal\Nova pasta\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\win7-x86\lib\sound.properties
+C:\Users\rapha\Documents\finaldofinal\Nova pasta\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\win7-x86\lib\tzdb.dat
+C:\Users\rapha\Documents\finaldofinal\Nova pasta\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\win7-x86\lib\tzmappings
+C:\Users\rapha\Documents\finaldofinal\Nova pasta\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\win7-x86\LICENSE.md
+C:\Users\rapha\Documents\finaldofinal\Nova pasta\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\win7-x86\README.md
+C:\Users\rapha\Documents\finaldofinal\Nova pasta\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\win7-x86\THIRD_PARTY_README
+C:\Users\rapha\Documents\finaldofinal\Nova pasta\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\win7-x86\TRADEMARK
+C:\Users\rapha\Documents\finaldofinal\Nova pasta\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\win81-arm\bin\ikvm.properties
+C:\Users\rapha\Documents\finaldofinal\Nova pasta\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\win81-arm\lib\calendars.properties
+C:\Users\rapha\Documents\finaldofinal\Nova pasta\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\win81-arm\lib\cmm\CIEXYZ.pf
+C:\Users\rapha\Documents\finaldofinal\Nova pasta\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\win81-arm\lib\cmm\GRAY.pf
+C:\Users\rapha\Documents\finaldofinal\Nova pasta\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\win81-arm\lib\cmm\LINEAR_RGB.pf
+C:\Users\rapha\Documents\finaldofinal\Nova pasta\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\win81-arm\lib\cmm\PYCC.pf
+C:\Users\rapha\Documents\finaldofinal\Nova pasta\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\win81-arm\lib\cmm\sRGB.pf
+C:\Users\rapha\Documents\finaldofinal\Nova pasta\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\win81-arm\lib\content-types.properties
+C:\Users\rapha\Documents\finaldofinal\Nova pasta\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\win81-arm\lib\currency.data
+C:\Users\rapha\Documents\finaldofinal\Nova pasta\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\win81-arm\lib\flavormap.properties
+C:\Users\rapha\Documents\finaldofinal\Nova pasta\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\win81-arm\lib\hijrah-config-umalqura.properties
+C:\Users\rapha\Documents\finaldofinal\Nova pasta\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\win81-arm\lib\logging.properties
+C:\Users\rapha\Documents\finaldofinal\Nova pasta\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\win81-arm\lib\management\jmxremote.access
+C:\Users\rapha\Documents\finaldofinal\Nova pasta\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\win81-arm\lib\management\jmxremote.password.template
+C:\Users\rapha\Documents\finaldofinal\Nova pasta\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\win81-arm\lib\management\management.properties
+C:\Users\rapha\Documents\finaldofinal\Nova pasta\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\win81-arm\lib\management\snmp.acl.template
+C:\Users\rapha\Documents\finaldofinal\Nova pasta\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\win81-arm\lib\net.properties
+C:\Users\rapha\Documents\finaldofinal\Nova pasta\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\win81-arm\lib\plugin.properties
+C:\Users\rapha\Documents\finaldofinal\Nova pasta\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\win81-arm\lib\psfontj2d.properties
+C:\Users\rapha\Documents\finaldofinal\Nova pasta\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\win81-arm\lib\security\blacklisted.certs
+C:\Users\rapha\Documents\finaldofinal\Nova pasta\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\win81-arm\lib\security\java.policy
+C:\Users\rapha\Documents\finaldofinal\Nova pasta\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\win81-arm\lib\security\java.security
+C:\Users\rapha\Documents\finaldofinal\Nova pasta\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\win81-arm\lib\security\local_policy.jar
+C:\Users\rapha\Documents\finaldofinal\Nova pasta\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\win81-arm\lib\security\US_export_policy.jar
+C:\Users\rapha\Documents\finaldofinal\Nova pasta\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\win81-arm\lib\sound.properties
+C:\Users\rapha\Documents\finaldofinal\Nova pasta\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\win81-arm\lib\tzdb.dat
+C:\Users\rapha\Documents\finaldofinal\Nova pasta\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\win81-arm\lib\tzmappings
+C:\Users\rapha\Documents\finaldofinal\Nova pasta\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\win81-arm\LICENSE.md
+C:\Users\rapha\Documents\finaldofinal\Nova pasta\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\win81-arm\README.md
+C:\Users\rapha\Documents\finaldofinal\Nova pasta\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\win81-arm\THIRD_PARTY_README
+C:\Users\rapha\Documents\finaldofinal\Nova pasta\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\win81-arm\TRADEMARK
+C:\Users\rapha\Documents\finaldofinal\Nova pasta\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\win10-arm64\bin\ikvm.properties
+C:\Users\rapha\Documents\finaldofinal\Nova pasta\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\win10-arm64\lib\calendars.properties
+C:\Users\rapha\Documents\finaldofinal\Nova pasta\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\win10-arm64\lib\cmm\CIEXYZ.pf
+C:\Users\rapha\Documents\finaldofinal\Nova pasta\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\win10-arm64\lib\cmm\GRAY.pf
+C:\Users\rapha\Documents\finaldofinal\Nova pasta\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\win10-arm64\lib\cmm\LINEAR_RGB.pf
+C:\Users\rapha\Documents\finaldofinal\Nova pasta\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\win10-arm64\lib\cmm\PYCC.pf
+C:\Users\rapha\Documents\finaldofinal\Nova pasta\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\win10-arm64\lib\cmm\sRGB.pf
+C:\Users\rapha\Documents\finaldofinal\Nova pasta\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\win10-arm64\lib\content-types.properties
+C:\Users\rapha\Documents\finaldofinal\Nova pasta\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\win10-arm64\lib\currency.data
+C:\Users\rapha\Documents\finaldofinal\Nova pasta\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\win10-arm64\lib\flavormap.properties
+C:\Users\rapha\Documents\finaldofinal\Nova pasta\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\win10-arm64\lib\hijrah-config-umalqura.properties
+C:\Users\rapha\Documents\finaldofinal\Nova pasta\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\win10-arm64\lib\logging.properties
+C:\Users\rapha\Documents\finaldofinal\Nova pasta\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\win10-arm64\lib\management\jmxremote.access
+C:\Users\rapha\Documents\finaldofinal\Nova pasta\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\win10-arm64\lib\management\jmxremote.password.template
+C:\Users\rapha\Documents\finaldofinal\Nova pasta\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\win10-arm64\lib\management\management.properties
+C:\Users\rapha\Documents\finaldofinal\Nova pasta\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\win10-arm64\lib\management\snmp.acl.template
+C:\Users\rapha\Documents\finaldofinal\Nova pasta\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\win10-arm64\lib\net.properties
+C:\Users\rapha\Documents\finaldofinal\Nova pasta\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\win10-arm64\lib\plugin.properties
+C:\Users\rapha\Documents\finaldofinal\Nova pasta\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\win10-arm64\lib\psfontj2d.properties
+C:\Users\rapha\Documents\finaldofinal\Nova pasta\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\win10-arm64\lib\security\blacklisted.certs
+C:\Users\rapha\Documents\finaldofinal\Nova pasta\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\win10-arm64\lib\security\java.policy
+C:\Users\rapha\Documents\finaldofinal\Nova pasta\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\win10-arm64\lib\security\java.security
+C:\Users\rapha\Documents\finaldofinal\Nova pasta\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\win10-arm64\lib\security\local_policy.jar
+C:\Users\rapha\Documents\finaldofinal\Nova pasta\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\win10-arm64\lib\security\US_export_policy.jar
+C:\Users\rapha\Documents\finaldofinal\Nova pasta\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\win10-arm64\lib\sound.properties
+C:\Users\rapha\Documents\finaldofinal\Nova pasta\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\win10-arm64\lib\tzdb.dat
+C:\Users\rapha\Documents\finaldofinal\Nova pasta\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\win10-arm64\lib\tzmappings
+C:\Users\rapha\Documents\finaldofinal\Nova pasta\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\win10-arm64\LICENSE.md
+C:\Users\rapha\Documents\finaldofinal\Nova pasta\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\win10-arm64\README.md
+C:\Users\rapha\Documents\finaldofinal\Nova pasta\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\win10-arm64\THIRD_PARTY_README
+C:\Users\rapha\Documents\finaldofinal\Nova pasta\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\win10-arm64\TRADEMARK
+C:\Users\rapha\Documents\finaldofinal\Nova pasta\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\linux-x64\bin\ikvm.properties
+C:\Users\rapha\Documents\finaldofinal\Nova pasta\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\linux-x64\lib\calendars.properties
+C:\Users\rapha\Documents\finaldofinal\Nova pasta\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\linux-x64\lib\cmm\CIEXYZ.pf
+C:\Users\rapha\Documents\finaldofinal\Nova pasta\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\linux-x64\lib\cmm\GRAY.pf
+C:\Users\rapha\Documents\finaldofinal\Nova pasta\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\linux-x64\lib\cmm\LINEAR_RGB.pf
+C:\Users\rapha\Documents\finaldofinal\Nova pasta\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\linux-x64\lib\cmm\PYCC.pf
+C:\Users\rapha\Documents\finaldofinal\Nova pasta\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\linux-x64\lib\cmm\sRGB.pf
+C:\Users\rapha\Documents\finaldofinal\Nova pasta\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\linux-x64\lib\content-types.properties
+C:\Users\rapha\Documents\finaldofinal\Nova pasta\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\linux-x64\lib\currency.data
+C:\Users\rapha\Documents\finaldofinal\Nova pasta\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\linux-x64\lib\flavormap.properties
+C:\Users\rapha\Documents\finaldofinal\Nova pasta\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\linux-x64\lib\hijrah-config-umalqura.properties
+C:\Users\rapha\Documents\finaldofinal\Nova pasta\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\linux-x64\lib\logging.properties
+C:\Users\rapha\Documents\finaldofinal\Nova pasta\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\linux-x64\lib\management\jmxremote.access
+C:\Users\rapha\Documents\finaldofinal\Nova pasta\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\linux-x64\lib\management\jmxremote.password.template
+C:\Users\rapha\Documents\finaldofinal\Nova pasta\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\linux-x64\lib\management\management.properties
+C:\Users\rapha\Documents\finaldofinal\Nova pasta\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\linux-x64\lib\management\snmp.acl.template
+C:\Users\rapha\Documents\finaldofinal\Nova pasta\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\linux-x64\lib\net.properties
+C:\Users\rapha\Documents\finaldofinal\Nova pasta\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\linux-x64\lib\plugin.properties
+C:\Users\rapha\Documents\finaldofinal\Nova pasta\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\linux-x64\lib\psfontj2d.properties
+C:\Users\rapha\Documents\finaldofinal\Nova pasta\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\linux-x64\lib\security\blacklisted.certs
+C:\Users\rapha\Documents\finaldofinal\Nova pasta\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\linux-x64\lib\security\java.policy
+C:\Users\rapha\Documents\finaldofinal\Nova pasta\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\linux-x64\lib\security\java.security
+C:\Users\rapha\Documents\finaldofinal\Nova pasta\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\linux-x64\lib\security\local_policy.jar
+C:\Users\rapha\Documents\finaldofinal\Nova pasta\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\linux-x64\lib\security\US_export_policy.jar
+C:\Users\rapha\Documents\finaldofinal\Nova pasta\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\linux-x64\lib\sound.properties
+C:\Users\rapha\Documents\finaldofinal\Nova pasta\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\linux-x64\lib\tzdb.dat
+C:\Users\rapha\Documents\finaldofinal\Nova pasta\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\linux-x64\lib\tzmappings
+C:\Users\rapha\Documents\finaldofinal\Nova pasta\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\linux-x64\LICENSE.md
+C:\Users\rapha\Documents\finaldofinal\Nova pasta\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\linux-x64\README.md
+C:\Users\rapha\Documents\finaldofinal\Nova pasta\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\linux-x64\THIRD_PARTY_README
+C:\Users\rapha\Documents\finaldofinal\Nova pasta\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\linux-x64\TRADEMARK
+C:\Users\rapha\Documents\finaldofinal\Nova pasta\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\linux-arm\bin\ikvm.properties
+C:\Users\rapha\Documents\finaldofinal\Nova pasta\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\linux-arm\lib\calendars.properties
+C:\Users\rapha\Documents\finaldofinal\Nova pasta\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\linux-arm\lib\cmm\CIEXYZ.pf
+C:\Users\rapha\Documents\finaldofinal\Nova pasta\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\linux-arm\lib\cmm\GRAY.pf
+C:\Users\rapha\Documents\finaldofinal\Nova pasta\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\linux-arm\lib\cmm\LINEAR_RGB.pf
+C:\Users\rapha\Documents\finaldofinal\Nova pasta\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\linux-arm\lib\cmm\PYCC.pf
+C:\Users\rapha\Documents\finaldofinal\Nova pasta\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\linux-arm\lib\cmm\sRGB.pf
+C:\Users\rapha\Documents\finaldofinal\Nova pasta\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\linux-arm\lib\content-types.properties
+C:\Users\rapha\Documents\finaldofinal\Nova pasta\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\linux-arm\lib\currency.data
+C:\Users\rapha\Documents\finaldofinal\Nova pasta\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\linux-arm\lib\flavormap.properties
+C:\Users\rapha\Documents\finaldofinal\Nova pasta\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\linux-arm\lib\hijrah-config-umalqura.properties
+C:\Users\rapha\Documents\finaldofinal\Nova pasta\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\linux-arm\lib\logging.properties
+C:\Users\rapha\Documents\finaldofinal\Nova pasta\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\linux-arm\lib\management\jmxremote.access
+C:\Users\rapha\Documents\finaldofinal\Nova pasta\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\linux-arm\lib\management\jmxremote.password.template
+C:\Users\rapha\Documents\finaldofinal\Nova pasta\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\linux-arm\lib\management\management.properties
+C:\Users\rapha\Documents\finaldofinal\Nova pasta\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\linux-arm\lib\management\snmp.acl.template
+C:\Users\rapha\Documents\finaldofinal\Nova pasta\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\linux-arm\lib\net.properties
+C:\Users\rapha\Documents\finaldofinal\Nova pasta\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\linux-arm\lib\plugin.properties
+C:\Users\rapha\Documents\finaldofinal\Nova pasta\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\linux-arm\lib\psfontj2d.properties
+C:\Users\rapha\Documents\finaldofinal\Nova pasta\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\linux-arm\lib\security\blacklisted.certs
+C:\Users\rapha\Documents\finaldofinal\Nova pasta\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\linux-arm\lib\security\java.policy
+C:\Users\rapha\Documents\finaldofinal\Nova pasta\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\linux-arm\lib\security\java.security
+C:\Users\rapha\Documents\finaldofinal\Nova pasta\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\linux-arm\lib\security\local_policy.jar
+C:\Users\rapha\Documents\finaldofinal\Nova pasta\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\linux-arm\lib\security\US_export_policy.jar
+C:\Users\rapha\Documents\finaldofinal\Nova pasta\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\linux-arm\lib\sound.properties
+C:\Users\rapha\Documents\finaldofinal\Nova pasta\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\linux-arm\lib\tzdb.dat
+C:\Users\rapha\Documents\finaldofinal\Nova pasta\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\linux-arm\lib\tzmappings
+C:\Users\rapha\Documents\finaldofinal\Nova pasta\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\linux-arm\LICENSE.md
+C:\Users\rapha\Documents\finaldofinal\Nova pasta\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\linux-arm\README.md
+C:\Users\rapha\Documents\finaldofinal\Nova pasta\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\linux-arm\THIRD_PARTY_README
+C:\Users\rapha\Documents\finaldofinal\Nova pasta\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\linux-arm\TRADEMARK
+C:\Users\rapha\Documents\finaldofinal\Nova pasta\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\linux-arm64\bin\ikvm.properties
+C:\Users\rapha\Documents\finaldofinal\Nova pasta\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\linux-arm64\lib\calendars.properties
+C:\Users\rapha\Documents\finaldofinal\Nova pasta\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\linux-arm64\lib\cmm\CIEXYZ.pf
+C:\Users\rapha\Documents\finaldofinal\Nova pasta\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\linux-arm64\lib\cmm\GRAY.pf
+C:\Users\rapha\Documents\finaldofinal\Nova pasta\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\linux-arm64\lib\cmm\LINEAR_RGB.pf
+C:\Users\rapha\Documents\finaldofinal\Nova pasta\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\linux-arm64\lib\cmm\PYCC.pf
+C:\Users\rapha\Documents\finaldofinal\Nova pasta\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\linux-arm64\lib\cmm\sRGB.pf
+C:\Users\rapha\Documents\finaldofinal\Nova pasta\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\linux-arm64\lib\content-types.properties
+C:\Users\rapha\Documents\finaldofinal\Nova pasta\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\linux-arm64\lib\currency.data
+C:\Users\rapha\Documents\finaldofinal\Nova pasta\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\linux-arm64\lib\flavormap.properties
+C:\Users\rapha\Documents\finaldofinal\Nova pasta\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\linux-arm64\lib\hijrah-config-umalqura.properties
+C:\Users\rapha\Documents\finaldofinal\Nova pasta\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\linux-arm64\lib\logging.properties
+C:\Users\rapha\Documents\finaldofinal\Nova pasta\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\linux-arm64\lib\management\jmxremote.access
+C:\Users\rapha\Documents\finaldofinal\Nova pasta\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\linux-arm64\lib\management\jmxremote.password.template
+C:\Users\rapha\Documents\finaldofinal\Nova pasta\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\linux-arm64\lib\management\management.properties
+C:\Users\rapha\Documents\finaldofinal\Nova pasta\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\linux-arm64\lib\management\snmp.acl.template
+C:\Users\rapha\Documents\finaldofinal\Nova pasta\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\linux-arm64\lib\net.properties
+C:\Users\rapha\Documents\finaldofinal\Nova pasta\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\linux-arm64\lib\plugin.properties
+C:\Users\rapha\Documents\finaldofinal\Nova pasta\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\linux-arm64\lib\psfontj2d.properties
+C:\Users\rapha\Documents\finaldofinal\Nova pasta\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\linux-arm64\lib\security\blacklisted.certs
+C:\Users\rapha\Documents\finaldofinal\Nova pasta\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\linux-arm64\lib\security\java.policy
+C:\Users\rapha\Documents\finaldofinal\Nova pasta\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\linux-arm64\lib\security\java.security
+C:\Users\rapha\Documents\finaldofinal\Nova pasta\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\linux-arm64\lib\security\local_policy.jar
+C:\Users\rapha\Documents\finaldofinal\Nova pasta\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\linux-arm64\lib\security\US_export_policy.jar
+C:\Users\rapha\Documents\finaldofinal\Nova pasta\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\linux-arm64\lib\sound.properties
+C:\Users\rapha\Documents\finaldofinal\Nova pasta\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\linux-arm64\lib\tzdb.dat
+C:\Users\rapha\Documents\finaldofinal\Nova pasta\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\linux-arm64\lib\tzmappings
+C:\Users\rapha\Documents\finaldofinal\Nova pasta\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\linux-arm64\LICENSE.md
+C:\Users\rapha\Documents\finaldofinal\Nova pasta\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\linux-arm64\README.md
+C:\Users\rapha\Documents\finaldofinal\Nova pasta\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\linux-arm64\THIRD_PARTY_README
+C:\Users\rapha\Documents\finaldofinal\Nova pasta\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\linux-arm64\TRADEMARK
+C:\Users\rapha\Documents\finaldofinal\Nova pasta\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\osx-x64\bin\ikvm.properties
+C:\Users\rapha\Documents\finaldofinal\Nova pasta\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\osx-x64\lib\calendars.properties
+C:\Users\rapha\Documents\finaldofinal\Nova pasta\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\osx-x64\lib\cmm\CIEXYZ.pf
+C:\Users\rapha\Documents\finaldofinal\Nova pasta\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\osx-x64\lib\cmm\GRAY.pf
+C:\Users\rapha\Documents\finaldofinal\Nova pasta\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\osx-x64\lib\cmm\LINEAR_RGB.pf
+C:\Users\rapha\Documents\finaldofinal\Nova pasta\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\osx-x64\lib\cmm\PYCC.pf
+C:\Users\rapha\Documents\finaldofinal\Nova pasta\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\osx-x64\lib\cmm\sRGB.pf
+C:\Users\rapha\Documents\finaldofinal\Nova pasta\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\osx-x64\lib\content-types.properties
+C:\Users\rapha\Documents\finaldofinal\Nova pasta\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\osx-x64\lib\currency.data
+C:\Users\rapha\Documents\finaldofinal\Nova pasta\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\osx-x64\lib\flavormap.properties
+C:\Users\rapha\Documents\finaldofinal\Nova pasta\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\osx-x64\lib\hijrah-config-umalqura.properties
+C:\Users\rapha\Documents\finaldofinal\Nova pasta\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\osx-x64\lib\logging.properties
+C:\Users\rapha\Documents\finaldofinal\Nova pasta\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\osx-x64\lib\management\jmxremote.access
+C:\Users\rapha\Documents\finaldofinal\Nova pasta\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\osx-x64\lib\management\jmxremote.password.template
+C:\Users\rapha\Documents\finaldofinal\Nova pasta\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\osx-x64\lib\management\management.properties
+C:\Users\rapha\Documents\finaldofinal\Nova pasta\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\osx-x64\lib\management\snmp.acl.template
+C:\Users\rapha\Documents\finaldofinal\Nova pasta\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\osx-x64\lib\net.properties
+C:\Users\rapha\Documents\finaldofinal\Nova pasta\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\osx-x64\lib\plugin.properties
+C:\Users\rapha\Documents\finaldofinal\Nova pasta\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\osx-x64\lib\psfontj2d.properties
+C:\Users\rapha\Documents\finaldofinal\Nova pasta\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\osx-x64\lib\security\blacklisted.certs
+C:\Users\rapha\Documents\finaldofinal\Nova pasta\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\osx-x64\lib\security\java.policy
+C:\Users\rapha\Documents\finaldofinal\Nova pasta\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\osx-x64\lib\security\java.security
+C:\Users\rapha\Documents\finaldofinal\Nova pasta\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\osx-x64\lib\security\local_policy.jar
+C:\Users\rapha\Documents\finaldofinal\Nova pasta\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\osx-x64\lib\security\US_export_policy.jar
+C:\Users\rapha\Documents\finaldofinal\Nova pasta\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\osx-x64\lib\sound.properties
+C:\Users\rapha\Documents\finaldofinal\Nova pasta\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\osx-x64\lib\tzdb.dat
+C:\Users\rapha\Documents\finaldofinal\Nova pasta\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\osx-x64\lib\tzmappings
+C:\Users\rapha\Documents\finaldofinal\Nova pasta\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\osx-x64\LICENSE.md
+C:\Users\rapha\Documents\finaldofinal\Nova pasta\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\osx-x64\README.md
+C:\Users\rapha\Documents\finaldofinal\Nova pasta\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\osx-x64\THIRD_PARTY_README
+C:\Users\rapha\Documents\finaldofinal\Nova pasta\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm\osx-x64\TRADEMARK
+C:\Users\rapha\Documents\finaldofinal\Nova pasta\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\ikvm.properties
+C:\Users\rapha\Documents\finaldofinal\Nova pasta\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\TesteLuanaTCC3.exe
+C:\Users\rapha\Documents\finaldofinal\Nova pasta\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\TesteLuanaTCC3.deps.json
+C:\Users\rapha\Documents\finaldofinal\Nova pasta\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\TesteLuanaTCC3.runtimeconfig.json
+C:\Users\rapha\Documents\finaldofinal\Nova pasta\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\TesteLuanaTCC3.runtimeconfig.dev.json
+C:\Users\rapha\Documents\finaldofinal\Nova pasta\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\TesteLuanaTCC3.dll
+C:\Users\rapha\Documents\finaldofinal\Nova pasta\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\TesteLuanaTCC3.pdb
+C:\Users\rapha\Documents\finaldofinal\Nova pasta\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\TesteLuanaTCC3.Views.dll
+C:\Users\rapha\Documents\finaldofinal\Nova pasta\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\TesteLuanaTCC3.Views.pdb
+C:\Users\rapha\Documents\finaldofinal\Nova pasta\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\IKVM.ByteCode.dll
+C:\Users\rapha\Documents\finaldofinal\Nova pasta\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\IKVM.Java.dll
+C:\Users\rapha\Documents\finaldofinal\Nova pasta\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\IKVM.Runtime.dll
+C:\Users\rapha\Documents\finaldofinal\Nova pasta\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\rapha\Documents\finaldofinal\Nova pasta\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\rapha\Documents\finaldofinal\Nova pasta\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\Mono.Posix.dll
+C:\Users\rapha\Documents\finaldofinal\Nova pasta\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\Mono.Unix.dll
+C:\Users\rapha\Documents\finaldofinal\Nova pasta\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\MySql.Data.dll
+C:\Users\rapha\Documents\finaldofinal\Nova pasta\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\rapha\Documents\finaldofinal\Nova pasta\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\rapha\Documents\finaldofinal\Nova pasta\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\System.Data.Odbc.dll
+C:\Users\rapha\Documents\finaldofinal\Nova pasta\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\System.Drawing.Common.dll
+C:\Users\rapha\Documents\finaldofinal\Nova pasta\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\System.Formats.Asn1.dll
+C:\Users\rapha\Documents\finaldofinal\Nova pasta\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\rapha\Documents\finaldofinal\Nova pasta\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\System.Security.AccessControl.dll
+C:\Users\rapha\Documents\finaldofinal\Nova pasta\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\rapha\Documents\finaldofinal\Nova pasta\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\rapha\Documents\finaldofinal\Nova pasta\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\System.Security.Permissions.dll
+C:\Users\rapha\Documents\finaldofinal\Nova pasta\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\System.Text.Encoding.CodePages.dll
+C:\Users\rapha\Documents\finaldofinal\Nova pasta\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\System.Text.Encodings.Web.dll
+C:\Users\rapha\Documents\finaldofinal\Nova pasta\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\System.Text.Json.dll
+C:\Users\rapha\Documents\finaldofinal\Nova pasta\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\System.Threading.AccessControl.dll
+C:\Users\rapha\Documents\finaldofinal\Nova pasta\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\System.Windows.Extensions.dll
+C:\Users\rapha\Documents\finaldofinal\Nova pasta\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\rapha\Documents\finaldofinal\Nova pasta\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\runtimes\android-arm\native\libMono.Unix.so
+C:\Users\rapha\Documents\finaldofinal\Nova pasta\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\runtimes\android-arm64\native\libMono.Unix.so
+C:\Users\rapha\Documents\finaldofinal\Nova pasta\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\runtimes\android-x64\native\libMono.Unix.so
+C:\Users\rapha\Documents\finaldofinal\Nova pasta\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\runtimes\android-x86\native\libMono.Unix.so
+C:\Users\rapha\Documents\finaldofinal\Nova pasta\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\runtimes\ios-arm\native\libMono.Unix.a
+C:\Users\rapha\Documents\finaldofinal\Nova pasta\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\runtimes\ios-arm64\native\libMono.Unix.a
+C:\Users\rapha\Documents\finaldofinal\Nova pasta\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\runtimes\ios-armv7s\native\libMono.Unix.a
+C:\Users\rapha\Documents\finaldofinal\Nova pasta\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\runtimes\iossimulator-arm64\native\libMono.Unix.a
+C:\Users\rapha\Documents\finaldofinal\Nova pasta\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\runtimes\iossimulator-x64\native\libMono.Unix.a
+C:\Users\rapha\Documents\finaldofinal\Nova pasta\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\runtimes\linux-arm\native\libMono.Unix.so
+C:\Users\rapha\Documents\finaldofinal\Nova pasta\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\runtimes\linux-arm64\native\libMono.Unix.so
+C:\Users\rapha\Documents\finaldofinal\Nova pasta\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\runtimes\linux-x64\native\libMono.Unix.so
+C:\Users\rapha\Documents\finaldofinal\Nova pasta\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\runtimes\maccatalyst-arm64\native\libMono.Unix.a
+C:\Users\rapha\Documents\finaldofinal\Nova pasta\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\runtimes\maccatalyst-x64\native\libMono.Unix.a
+C:\Users\rapha\Documents\finaldofinal\Nova pasta\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\runtimes\osx-arm64\native\libMono.Unix.dylib
+C:\Users\rapha\Documents\finaldofinal\Nova pasta\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\runtimes\osx-x64\native\libMono.Unix.dylib
+C:\Users\rapha\Documents\finaldofinal\Nova pasta\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\runtimes\tvos-arm64\native\libMono.Unix.a
+C:\Users\rapha\Documents\finaldofinal\Nova pasta\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\runtimes\tvossimulator-x64\native\libMono.Unix.a
+C:\Users\rapha\Documents\finaldofinal\Nova pasta\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\runtimes\freebsd\lib\netcoreapp3.1\System.Data.Odbc.dll
+C:\Users\rapha\Documents\finaldofinal\Nova pasta\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\runtimes\linux\lib\netcoreapp3.1\System.Data.Odbc.dll
+C:\Users\rapha\Documents\finaldofinal\Nova pasta\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\runtimes\osx\lib\netcoreapp3.1\System.Data.Odbc.dll
+C:\Users\rapha\Documents\finaldofinal\Nova pasta\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\System.Data.Odbc.dll
+C:\Users\rapha\Documents\finaldofinal\Nova pasta\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\rapha\Documents\finaldofinal\Nova pasta\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\rapha\Documents\finaldofinal\Nova pasta\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.AccessControl.dll
+C:\Users\rapha\Documents\finaldofinal\Nova pasta\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\System.Security.Cryptography.Pkcs.dll
+C:\Users\rapha\Documents\finaldofinal\Nova pasta\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\rapha\Documents\finaldofinal\Nova pasta\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\System.Text.Encoding.CodePages.dll
+C:\Users\rapha\Documents\finaldofinal\Nova pasta\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Threading.AccessControl.dll
+C:\Users\rapha\Documents\finaldofinal\Nova pasta\TesteLuanaTCC3\TesteLuanaTCC3\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\rapha\Documents\finaldofinal\Nova pasta\TesteLuanaTCC3\TesteLuanaTCC3\obj\Debug\net5.0\TesteLuanaTCC3.csproj.AssemblyReference.cache
+C:\Users\rapha\Documents\finaldofinal\Nova pasta\TesteLuanaTCC3\TesteLuanaTCC3\obj\Debug\net5.0\TesteLuanaTCC3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rapha\Documents\finaldofinal\Nova pasta\TesteLuanaTCC3\TesteLuanaTCC3\obj\Debug\net5.0\TesteLuanaTCC3.AssemblyInfoInputs.cache
+C:\Users\rapha\Documents\finaldofinal\Nova pasta\TesteLuanaTCC3\TesteLuanaTCC3\obj\Debug\net5.0\TesteLuanaTCC3.AssemblyInfo.cs
+C:\Users\rapha\Documents\finaldofinal\Nova pasta\TesteLuanaTCC3\TesteLuanaTCC3\obj\Debug\net5.0\TesteLuanaTCC3.csproj.CoreCompileInputs.cache
+C:\Users\rapha\Documents\finaldofinal\Nova pasta\TesteLuanaTCC3\TesteLuanaTCC3\obj\Debug\net5.0\TesteLuanaTCC3.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\rapha\Documents\finaldofinal\Nova pasta\TesteLuanaTCC3\TesteLuanaTCC3\obj\Debug\net5.0\TesteLuanaTCC3.RazorAssemblyInfo.cache
+C:\Users\rapha\Documents\finaldofinal\Nova pasta\TesteLuanaTCC3\TesteLuanaTCC3\obj\Debug\net5.0\TesteLuanaTCC3.RazorAssemblyInfo.cs
+C:\Users\rapha\Documents\finaldofinal\Nova pasta\TesteLuanaTCC3\TesteLuanaTCC3\obj\Debug\net5.0\scopedcss\bundle\TesteLuanaTCC3.styles.css
+C:\Users\rapha\Documents\finaldofinal\Nova pasta\TesteLuanaTCC3\TesteLuanaTCC3\obj\Debug\net5.0\staticwebassets\TesteLuanaTCC3.StaticWebAssets.Manifest.cache
+C:\Users\rapha\Documents\finaldofinal\Nova pasta\TesteLuanaTCC3\TesteLuanaTCC3\obj\Debug\net5.0\TesteLuanaTCC3.TagHelpers.input.cache
+C:\Users\rapha\Documents\finaldofinal\Nova pasta\TesteLuanaTCC3\TesteLuanaTCC3\obj\Debug\net5.0\TesteLuanaTCC3.TagHelpers.output.cache
+C:\Users\rapha\Documents\finaldofinal\Nova pasta\TesteLuanaTCC3\TesteLuanaTCC3\obj\Debug\net5.0\TesteLuanaTCC3.RazorCoreGenerate.cache
+C:\Users\rapha\Documents\finaldofinal\Nova pasta\TesteLuanaTCC3\TesteLuanaTCC3\obj\Debug\net5.0\Razor\Views\CadastrarEvento\Index.cshtml.g.cs
+C:\Users\rapha\Documents\finaldofinal\Nova pasta\TesteLuanaTCC3\TesteLuanaTCC3\obj\Debug\net5.0\Razor\Views\Evento\paginaEvento.cshtml.g.cs
+C:\Users\rapha\Documents\finaldofinal\Nova pasta\TesteLuanaTCC3\TesteLuanaTCC3\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\rapha\Documents\finaldofinal\Nova pasta\TesteLuanaTCC3\TesteLuanaTCC3\obj\Debug\net5.0\Razor\Views\Perfil\Index.cshtml.g.cs
+C:\Users\rapha\Documents\finaldofinal\Nova pasta\TesteLuanaTCC3\TesteLuanaTCC3\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\rapha\Documents\finaldofinal\Nova pasta\TesteLuanaTCC3\TesteLuanaTCC3\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\rapha\Documents\finaldofinal\Nova pasta\TesteLuanaTCC3\TesteLuanaTCC3\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\rapha\Documents\finaldofinal\Nova pasta\TesteLuanaTCC3\TesteLuanaTCC3\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\rapha\Documents\finaldofinal\Nova pasta\TesteLuanaTCC3\TesteLuanaTCC3\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\rapha\Documents\finaldofinal\Nova pasta\TesteLuanaTCC3\TesteLuanaTCC3\obj\Debug\net5.0\TesteLuanaTCC3.RazorTargetAssemblyInfo.cache
+C:\Users\rapha\Documents\finaldofinal\Nova pasta\TesteLuanaTCC3\TesteLuanaTCC3\obj\Debug\net5.0\TesteLuanaTCC3.RazorTargetAssemblyInfo.cs
+C:\Users\rapha\Documents\finaldofinal\Nova pasta\TesteLuanaTCC3\TesteLuanaTCC3\obj\Debug\net5.0\TesteLuanaTCC3.Views.pdb
+C:\Users\rapha\Documents\finaldofinal\Nova pasta\TesteLuanaTCC3\TesteLuanaTCC3\obj\Debug\net5.0\TesteLuanaTCC3.csproj.CopyComplete
+C:\Users\rapha\Documents\finaldofinal\Nova pasta\TesteLuanaTCC3\TesteLuanaTCC3\obj\Debug\net5.0\TesteLuanaTCC3.dll
+C:\Users\rapha\Documents\finaldofinal\Nova pasta\TesteLuanaTCC3\TesteLuanaTCC3\obj\Debug\net5.0\refint\TesteLuanaTCC3.dll
+C:\Users\rapha\Documents\finaldofinal\Nova pasta\TesteLuanaTCC3\TesteLuanaTCC3\obj\Debug\net5.0\TesteLuanaTCC3.pdb
+C:\Users\rapha\Documents\finaldofinal\Nova pasta\TesteLuanaTCC3\TesteLuanaTCC3\obj\Debug\net5.0\TesteLuanaTCC3.genruntimeconfig.cache
+C:\Users\rapha\Documents\finaldofinal\Nova pasta\TesteLuanaTCC3\TesteLuanaTCC3\obj\Debug\net5.0\ref\TesteLuanaTCC3.dll

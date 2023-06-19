@@ -1,0 +1,165 @@
+﻿@import url('https://fonts.googleapis.com/css2?family=Hind+Vadodara:wght@300&display=swap');
+
+
+:root {
+    --azul: #003049;
+    --vermelho: #d62828;
+    --laranja: #f77f00;
+    --preto: #191818;
+    --branco-1: #f2f2f2;
+    --amarelo: #fcbf49;
+    --cinza-marrom: #eae2b7;
+    --gradient: linear-gradient(180deg, #FCCF31 0%, #F55555 60%);
+}
+
+/* Scrollbar */
+::-webkit-scrollbar {
+    width: 10px;
+}
+
+::-webkit-scrollbar-thumb {
+    background-color: var(--laranja);
+}
+
+::-webkit-scrollbar-track {
+    background-color: #EBEBEB;
+}
+
+.header {
+    margin: auto;
+    max-width: 1440px;
+    padding: 15vh 0;
+    font-family: 'Hind Vadodara', sans-serif;
+}
+
+.titulo-header {
+    font-weight: bold;
+}
+
+.perfil {
+    margin-top: 3vh;
+    height: 100%;
+    gap: 1vw;
+    width: 100%;
+    display: flex;
+}
+
+.perfil-infos {
+    display: grid;
+    width: 100%;
+    justify-content: space-around;
+    justify-content: start;
+}
+
+
+.perfil img {
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+    border: 2px solid var(--laranja);
+}
+
+
+/*input para o icone do perfil */
+
+.picture-input {
+    display: none;
+}
+
+#imagem-input {
+    display: none;
+}
+
+#escolher-imagem {
+    font-size: large;
+    font-weight: bold;
+    text-decoration: underline;
+    cursor: pointer;
+}
+
+
+    #escolher-imagem:hover {
+        color: var(--laranja);
+    }
+
+
+main {
+    margin: 0 auto;
+    max-width: 1440px;
+    margin-bottom: 10vh;
+}
+
+.titulo-populares {
+    margin-top: 10vh;
+    padding-left: 10vw;
+}
+
+    .titulo-populares span {
+        font-size: 1.5rem;
+        font-weight: 600;
+        font-family: 'Hind Vadodara', sans-serif;
+        color: var(--preto);
+    }
+
+.mais-populares {
+    margin-top: 10vh;
+    padding: 1vh 0;
+    background-color: var(--branco-1);
+    font-family: 'Hind Vadodara', sans-serif;
+    display: grid;
+    grid-template-columns: 2fr 2fr 2fr;
+    justify-items: center;
+    align-items: center;
+}
+
+/* cards mais populares */
+
+.card {
+    width: 300px;
+    height: 350px;
+}
+
+.card-img {
+    background-color: #ffffff;
+    width: 300px;
+    height: 200px;
+    border-radius: 35px;
+}
+
+    .card-img img {
+        border-radius: 35px;
+        width: 300px;
+        height: 200px;
+    }
+
+
+.card h2 {
+    font-size: 1.3rem;
+    color: var(--laranja);
+}
+
+.card p {
+    font-weight: bold;
+}
+
+.card span {
+    color: #474747;
+}
+
+
+/* responsividade dos cards */
+
+@media (max-width: 1200px) {
+
+    .mais-populares {
+        grid-template-columns: 2fr 2fr;
+    }
+}
+
+@media (max-width: 800px) {
+
+    .mais-populares {
+        grid-template-columns: 1fr;
+        gap: 5vh;
+    }
+}

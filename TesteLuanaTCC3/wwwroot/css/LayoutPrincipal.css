@@ -1,0 +1,375 @@
+﻿@import url('https://fonts.googleapis.com/css2?family=Hind+Vadodara:wght@300&display=swap');
+
+
+:root {
+    --azul: #003049;
+    --vermelho: #d62828;
+    --laranja: #f77f00;
+    --preto: #191818;
+    --branco-1: #f2f2f2;
+    --amarelo: #fcbf49;
+    --cinza-marrom: #eae2b7;
+    --gradient: linear-gradient(180deg, #FCCF31 0%, #F55555 60%);
+    --cinza-claro: #a4a8aa;
+}
+
+/* Scrollbar */
+::-webkit-scrollbar {
+    width: 10px;
+}
+
+
+::-webkit-scrollbar-thumb {
+    background-color: var(--laranja);
+    border-radius: 30px;
+}
+
+::-webkit-scrollbar-track {
+    background-color: #EBEBEB;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Hind Vadodara', sans-serif;
+}
+
+body {
+    height: 100%;
+    
+   
+}
+
+li {
+    list-style: none;
+}
+
+.navbar a {
+    text-decoration: none;
+    color: #000000;
+    font-size: 1rem;
+    cursor:pointer;
+}
+
+.tituloParty a:hover {
+    font-weight: bold;
+}
+
+.navbar a:hover {
+    font-weight: bold;
+    color: var(--laranja);
+}
+
+/* Estilo do modal de login */
+.modalLogin {
+  display: none;
+  position: fixed;
+  z-index: 1;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  /* overflow: auto; */
+  background-color: rgba(0, 0, 0, 0.4);
+  font-family: "Hind Vadodara", sans-serif;
+}
+
+#modal-login form {
+  background-color: #fefefe;
+  margin: auto;
+  padding: 30px;
+  border-bottom: 1px solid #888;
+  width: 100%;
+
+  margin: 15% auto; /* centralizar o modal verticalmente*/
+  border: 1px solid #9b9696;
+  border-radius: 10px;
+  width: 20%; /* ajustar a largura do modal */
+  height: 40%;
+  position: relative;
+}
+
+#titulo-login {
+  font-size: 1.5rem;
+  font-weight: bold;
+}
+
+#modal-login input[type="email"],
+#modal-login input[type="password"] {
+  width: 100%;
+  padding: 10px;
+  margin-top: 20px;
+  margin-bottom: 30px;
+  border: none;
+  border-bottom: 1px solid #070707;
+  outline: none;
+}
+
+#modal-login button[type="submit"],
+#modal-login button[type="button"] {
+  background-color: #4caf50;
+  color: white;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 20px;
+  cursor: pointer;
+  float: right;
+  text-align: center;
+  border: 1px solid var(--branco-1);
+  background: var(--gradient);
+  color: var(--branco-1);
+}
+
+
+
+
+.navbar {
+    width: 100%;
+    height: 60px;
+    max-width: 1200px;
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+   
+}
+
+.navbar .logo a {
+    position: relative;
+    /*bottom: 1.5rem;*/
+    font-size: 1.5rem;
+    font-weight: bold;
+    
+}
+
+.logo {
+    display:flex;
+}
+
+#img_logo {
+    height: 3.5rem;
+
+}
+
+#img_logoF {
+    height: 8rem;
+}
+
+.navbar .elementos {
+    align-items: center;
+    display: flex;
+    gap: 2rem;
+}
+
+.navbar .toggle_btn {
+    color: #fcbf49;
+    font-size: 1.5rem;
+    cursor: pointer;
+    display: none;
+}
+
+
+.navbar .acao_btn {
+    background: var(--gradient);
+    color: #fff;
+    padding: 0.5rem 1rem;
+    border: none;
+    outline: none;
+    border-radius: 20px;
+    font-size: 0.8rem;
+    font-weight: bold;
+    cursor: pointer;
+    transition: scale 0.3 ease;
+}
+
+.navbar .acao_btn:hover {
+   scale: 1.05;
+   color: #ffff;
+}
+
+.acao_btn:active {
+    scale: 0.95;
+}
+
+
+/* Menu dropdown */
+.menu_dropdown {
+    display: none;
+    position: absolute;
+    right: 2rem;
+    top: 60px;
+    height: 0;
+    width: 240px;
+    background: #dee3e6;
+    backdrop-filter: blur(20px);
+    border-radius: 10px;
+    overflow: hidden;
+    transition: height .2s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+    z-index:100;
+}
+
+.menu_dropdown.open {
+    height: 240px;
+}
+
+.menu_dropdown a {
+   text-decoration: none;
+   color: var(--preto);
+ }
+
+.menu_dropdown li {
+    padding: 0.7rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.menu_dropdown a:hover {
+   font-weight: bold;
+   color: var(--preto);
+}
+
+.menu_dropdown a:nth-last-child() {
+   color: var(--branco-1);
+}
+
+
+
+.menu_dropdown .botao_cadastro {
+    background: var(--gradient);
+    color: #f2f2f2;
+    height: 3em;
+    width: 70%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: none;
+    outline: none;
+    border-radius: 30px;
+}
+
+
+/* Responsividade Navbar */
+@media (max-width: 820px) {
+
+    .navbar .elementos,
+    .navbar .acao_btn {
+        display: none;
+    }
+
+    .navbar .toggle_btn {
+        display: block;
+    }
+
+    .menu_dropdown {
+        display: block;
+    }
+}
+
+/* Fim responsividade Navbar */
+
+
+footer {
+    width: 100%;
+    background-color: var(--azul);
+    color: var(--branco-1);
+    padding: 1vh 10%;
+    
+   
+}
+
+#footer_content {
+    background-color: var(--azul);
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    padding: 0 3.5rem;
+}
+
+#img_logoF {
+    width: 200px;
+    filter:invert(100%);
+}
+
+#RedesSociais {
+    display: flex;
+    align-items: last baseline;
+    gap: 1rem;
+}
+
+    #RedesSociais .footer_link {
+        text-decoration: none;
+        align-items: center;
+        display: flex;
+        justify-content: center;
+        height: 2.5rem;
+        width: 2rem;
+        color: var(--cinza-claro);
+    }
+
+        #RedesSociais .footer_link i {
+            font-size: 1.5rem;
+        }
+
+
+.footer-list {
+    display: flex;
+    border-left: 2px solid;
+    padding-left: 2rem;
+    flex-direction: column;
+    gap: 0.8rem;
+    list-style: none;
+    border-color: #F55555;
+}
+
+.footer-elemento {
+    text-decoration: none;
+    color: var(--branco-1);
+}
+
+hr {
+    border-color: #FF5555;
+}
+
+
+#footer_final {
+    background-color: var(--azul);
+    font-size: 0.9rem;
+    padding: 1rem;
+    margin-top: 1rem;
+}
+
+/* Responsividade Footre */
+
+@media screen and (max-width: 1047px) {
+    #footer_content {
+        grid-template-columns: repeat(2, 1fr);
+        gap: 2rem;
+    }
+
+    .footer-list {
+        padding: 0;
+        margin-top: 2rem;
+        margin-bottom: 2rem;
+        border-left: 2px solid;
+        padding-left: 2rem;
+        border-color: #FF5555;
+    }
+
+    footer {
+        padding: 0;
+    }
+}
+
+@media screen and (max-width: 620px) {
+    #footer_content {
+        display: block;
+        padding-top: 2rem;
+        gap: 2rem;
+    }
+
+    .footer-list {
+        border: none;
+        padding: 0;
+    }
+}

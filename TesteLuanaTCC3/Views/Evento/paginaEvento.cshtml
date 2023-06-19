@@ -1,0 +1,99 @@
+﻿@using Microsoft.AspNetCore.Http
+@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+@model PartyMaker3.Models.Evento
+
+<link rel="stylesheet" href="~/css/Evento.css"/>
+
+<div class="header">
+
+    <div class="banner-evento">
+
+        
+        @if (Model.Imagem != null && Model.Imagem.Length > 0)
+        {
+            string base64Image = Convert.ToBase64String(Model.Imagem);
+            string imageSrc = string.Format("data:image;base64,{0}", base64Image);
+            <img src="@imageSrc" alt="" class="img-banner" />
+        }else{
+            string base64Image = Convert.ToBase64String(Model.Imagem);
+            string imageSrc = string.Format("data:image;base64,{0}", base64Image);
+            <img src="@imageSrc" alt="" class="img-banner" />
+        }
+
+
+    </div>
+
+    <div class="conteudo-evento">
+
+        <h1>@Model.Nome</h1>
+        <div class="btns">
+
+
+
+            @if (Context.Session.GetString("teste") == null)
+            {
+
+            }
+            else
+            {
+                <form asp-action="Likee" asp-controller="Usuario" method="post">
+            <button type="submit">
+            <i class="fa-solid fa-heart curtir"></i>
+            </button>
+            </form>
+                
+            }
+
+
+            @if (Context.Session.GetString("teste") == null)
+            {
+              
+            }
+            else
+            {
+                
+                <form asp-action="Favorito" asp-controller="Usuario" method="post">
+                    <button type="submit">
+                    <i class="fa-solid fa-star favorito"></i>
+                </button>
+                    </form>
+            }
+
+
+
+
+           
+        </div>
+    </div>
+
+</div>
+
+
+<div class="descricao">
+    <h1>Descrição</h1>
+    <p>
+       @Model.Descricao
+    </p>
+    <br>
+    <span>@Model.Data_evento</span>
+    <span>Inicio do show: 20:00h</span>
+    <span>Classificação: 12 anos</span>
+    <span>Abertura:18:00h</span>
+
+    <br>
+    <p>
+        ARENA
+        R$ 100,00
+        R$ 70,00 + 1 kg de alimento (solidário)
+        R$ 50,00 (meia)
+
+        FRONTSTAGE
+        R$ 180,00
+        R$ R$ 110,00 + 1kg de alimento (solidário)
+        R$ 90,00 (meia)
+    </p>
+</div>

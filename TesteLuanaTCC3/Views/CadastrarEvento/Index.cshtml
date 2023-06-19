@@ -1,0 +1,62 @@
+﻿@{
+    ViewData["Title"] = "";
+}
+@model PartyMaker3.Models.Evento
+
+
+
+<link rel="stylesheet" href="~/css/cadastrarEvento.css" />
+
+<main>
+    <form asp-action="CadastrarEvento" asp-controller="Evento" class="form" enctype="multipart/form-data">
+        <div class="form">
+
+            <h1>Cadastrar Evento</h1>
+            <br /> <br />
+            <input asp-for="Nome" class="form-control input-nome" type="text" placeholder="Nome do evento" required>
+            <br />
+
+            <div class="categorias">
+                <h3>Categorias</h3>
+                <select class="form-control" name="categoria">
+                    <option value="festas-shows">Festas e shows</option>
+                    <option value="esportes">Esportes</option>
+                    <option value="cursos-workshops">Cursos/Workshops</option>
+                    <option value="infantil">Infantil</option>
+                    <option value="peças-standup">Peças/Stand up</option>
+                    <option value="congressos-palestra">Congressos/Palestra</option>
+                    <option value="games-geeks">Games/Geeks</option>
+                    <option value="moda-beleza">Moda/Beleza</option>
+                </select>
+            </div>
+
+            <br />
+
+            <h2>Endereço do evento</h2>
+            <div class="endereco">
+                <input asp-for="Rua" class="inputs form-control" type="text" placeholder="Rua" required>
+                <input asp-for="Logradouro" class="inputs form-control" type="text" placeholder="Logradouro" required>
+                <input asp-for="Cidade" class="inputs form-control" type="text" placeholder="Cidade" required>
+                <input asp-for="Cep" class="inputs form-control" type="number" placeholder="CEP" required>
+                <input asp-for="Data_evento" class="inputs form-control" type="date" placeholder="Data do evento" required>
+                <input asp-for="Capacidade" class="inputs form-control" type="number" placeholder="Capacidade" required>
+            </div>
+
+            <div class="descricao">
+                <h2>Descrição do evento</h2>
+                <input asp-for="Descricao" class="inputs form-control" type="text" placeholder="Descreva seu evento aqui" required>
+            </div>
+            <br />
+
+            <div class="banner">
+                <h4>Faça upload do banner do evento aqui</h4>
+                <input type="file" class="input-banner" name="arquivo" required>
+            </div>
+
+            <div class="form-group cadastrar">
+                <button type="submit" value="Create" id="btn-cadastrar">Cadastrar</button>
+            </div>
+
+        </div>
+    </form>
+</main>

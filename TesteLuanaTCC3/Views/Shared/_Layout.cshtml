@@ -1,0 +1,141 @@
+﻿@using Microsoft.AspNetCore.Http;
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - LuanaTestetcc</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css"
+          integrity="sha512-iecdLmaskl7CVkqkXNQ/ZH/XLlvWZOJyj7Yy7tcenmpD1ypASozpmT/E0iPtmFIB46ZmdtAc9eNBvH0H/ZpiBw=="
+          crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <link rel="stylesheet" href="~/css/LayoutPrincipal.css" />
+  @*  <link rel="stylesheet" href="~/css/home.css" />*@
+    <link rel="stylesheet" href="/assets/fontawesome-free-6.4.0-web/css/all.css">
+
+</head>
+
+<body>
+
+    <div class="navbar">
+        <div class="logo">
+            <img id="img_logo" src="/img/LogoPreto.png" alt=""> <a asp-area="" asp-controller="Home" asp-action="Index" class="tituloParty">PartyMaker</a>
+        </div>
+
+        <ul class="elementos">
+            <li class="">
+                <a asp-area="" asp-controller="Home" asp-action="Index">Home</a>
+            </li>
+
+            @if (Context.Session.GetString("teste") == null)
+            {
+        <li class="nav-item">
+            <a class="abrir-login" onclick="abrirLogin()">Login</a>
+        </li>
+            }
+            else
+            {
+             <a asp-controller="Perfil" asp-action="Index">Perfil</a>
+            }
+
+
+
+            
+            <li class="nav-item">
+                <a onclick="abrirCadastrar()">Cadastre-se</a>
+            </li>
+            <a class="acao_btn" asp-area="" asp-controller="CadastrarEvento" asp-action="Index">Cadastre um evento</a>
+
+
+        </ul>
+
+        <div class="toggle_btn">
+            <i class="fa-solid fa-bars"></i>
+        </div>
+
+        <div class="menu_dropdown">
+            <li>
+                <a asp-area="" asp-controller="Home" asp-action="Index">Home</a>
+            </li>
+            <li>
+                <a id="modal-login" @*asp-area="" asp-controller="Home" asp-action="Privacy"*@>Login</a>
+            </li>
+            <li>
+                <a @*asp-area="" asp-controller="Home" asp-action="Privacy"*@ onclick="abrirCadastrar()">Cadastre-se</a>
+            </li>
+            <li> <a class="botao_cadastro" asp-area="" asp-controller="CadastrarEvento" asp-action="Index">Cadastre um evento</a></li>
+        </div>
+  
+    </div>
+
+   
+    @RenderBody()
+
+
+
+    <footer>
+        <div id="footer_content">
+            <div id="footer_logo_nome">
+                <div class="titulo_logo">
+                    <a> <img id="img_logoF" src="/img/Logo.svg" alt=""> </a>
+                </div>
+                <h3>PartyMaker</h3>
+                <br>
+                <p> Baixe nosso app</p>
+                <img src="/img/playStore.png" alt="">
+            </div>
+
+            <ul class="footer-list">
+                <h3>Principais Categorias</h3>
+                <li>
+                    <a href="@Url.Action("Index", "Home", new { categoria = "festas-shows" })" class="footer-elemento">Festas/Shows</a>
+                </li>
+                <li>
+                    <a href="@Url.Action("Index", "Home", new { categoria = "peças-standup" })" class="footer-elemento">Peças/Stand up</a>
+                </li>
+                <li>
+                    <a href="@Url.Action("Index", "Home", new { categoria = "games-geeks" })" class="footer-elemento">Games/Geeks</a>
+                </li>
+                <li>
+                    <a href="@Url.Action("Index", "Home", new { categoria = "esportes" })" class="footer-elemento">Esportes</a>
+                </li>
+            </ul>
+
+            <div class="footer-contato">
+                <h3>Contato</h3>
+                <li>
+                    <p>exemplo@gmail.com</p>
+                </li>
+                <li>
+                    <p>(19)91234-5678</p>
+                </li>
+
+            </div>
+
+            <div id="RedesSociais">
+                <a href="#" class="footer_link" id="instagram">
+                    <i class="fa-brands fa-instagram"></i>
+                </a>
+
+                <a href="#" class="footer_link" id="facebook">
+                    <i class="fa-brands fa-facebook"></i>
+                </a>
+
+                <a href="#" class="footer_link" id="twitter">
+                    <i class="fa-brands fa-twitter"></i>
+                </a>
+
+            </div>
+        </div>
+        <div id="footer_final">
+            <hr>
+            Home • Política de privacidade • Sobre
+        </div>
+    </footer>
+
+    <script src="~/js/script.js"></script>
+    <script src="~/js/modais.js"></script>
+
+
+
+</body>
+</html>
